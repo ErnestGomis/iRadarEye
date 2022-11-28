@@ -1,0 +1,61 @@
+body.backgroundInicio {
+    background-image: url("../img/backgroundSpain.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1.Titulo {
+    color:rgb(52, 255, 52);
+    text-align: center;
+    margin-top: 20%;
+    font-size: 80px;
+    font-family: 'Impact', Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+div.BotoneraMain {
+    margin-top: 10%;
+    text-align: center;
+}
+
+div.BotoneraMain>div:hover {
+    background-color: rgb(48, 102, 155);
+}
+
+button {
+    text-align: center;
+    background-color: rgb(77, 166, 255);
+    border-color: whitesmoke;
+    color: white;
+    font-size: 25px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    font-size: 18;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+button.Mapa {
+    margin-bottom: 40px;
+    margin-right: 80px;
+}
+
+button.Inicio {
+    margin-bottom: 40px;
+    margin-left: 80px;
+}
+
+button.Login {
+    margin-top: 40px;
+    margin-right: 80px;
+}
+
+button.Registro {
+    margin-top: 40px;
+    margin-left: 80px;
+}
