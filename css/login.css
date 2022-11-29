@@ -1,0 +1,51 @@
+body.backgroundLogin {
+    background-color: rgb(46, 108, 193);
+}
+
+div.flexin {
+    display: flex;
+}
+
+div.recuadroLogin {
+    background-color: rgb(119, 185, 255);
+    display: block;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+
+div.tituloFormulario {
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+
+div.usuario {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+div.password {
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    background-color: rgb(77, 166, 255);
+    border-color: whitesmoke;
+    color: white;
+    font-size: 25px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    font-size: 18;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
