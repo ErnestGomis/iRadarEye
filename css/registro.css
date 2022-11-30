@@ -63,3 +63,6 @@ body {
     margin-bottom: 15px;
 }
 
+.form-register .botons:hover{ 
+background:rgb(156, 112, 156);
+}
