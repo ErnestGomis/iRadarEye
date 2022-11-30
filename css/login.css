@@ -14,6 +14,7 @@ div.recuadroLogin {
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
+    margin-top: 15%;
 }
 
 div.tituloFormulario {
@@ -44,5 +45,15 @@ button {
     padding-right: 50px;
     padding-top: 25px;
     padding-bottom: 25px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+a.forgotten {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+a.registro {
+    text-align: center;
 }
