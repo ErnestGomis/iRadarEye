@@ -1,8 +1,8 @@
 * {
-margin: 0;
-padding: 0;
-box-sizing: border-box;
-}
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
 
 body {
     background-repeat: no-repeat;
@@ -24,23 +24,23 @@ body {
 }
 
 .form-register h4 {
-font-size: 30px;
-margin-bottom: 20px;
-text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 .controls {
-width: 100%;
-padding: 10px;
-border-radius: 5%;
-margin-bottom: 10px;
-font-family:'Impact', Impact, 'Arial Narrow Bold', sans-serif;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5%;
+    margin-bottom: 10px;
+    font-family:'Impact', Impact, 'Arial Narrow Bold', sans-serif;
 }
 
 .form-register p{
-text-align: center;
-font-size: 18px;
-height: 30px;
+    text-align: center;
+    font-size: 18px;
+    height: 30px;
 }
 
 .form-register a:hover{
@@ -52,14 +52,14 @@ height: 30px;
     text-decoration: none;
 }
 .form-register .botons{
-width: 100%;
-background: #378de4;
-border: none;
-padding: 14px;
-color: white;
-font-size: 16px;
-text-align: center;
-margin-top: 10px;
-margin-bottom: 15px;
+    width: 100%;
+    background: #378de4;
+    border: none;
+    padding: 14px;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
 }
 

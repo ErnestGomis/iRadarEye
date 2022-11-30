@@ -1,5 +1,8 @@
 body.backgroundLogin {
-    background-color: rgb(46, 108, 193);
+    background-repeat: no-repeat;
+    background-image: url("../img/fondo\ celeste.jpg");
+    background-attachment: fixed;
+    background-size: cover
 }
 
 div.flexin {
@@ -14,7 +17,7 @@ div.recuadroLogin {
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
-    margin-top: 15%;
+    margin-top: 10%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     box-shadow: 7px 13px 37px;
 }
