@@ -2,9 +2,14 @@
 margin: 0;
 padding: 0;
 box-sizing: border-box;
-
 }
 
+body {
+    background-repeat: no-repeat;
+    background-image: url("../img/fondo\ celeste.jpg");
+    background-attachment: fixed;
+    background-size: cover
+}
 
 .form-register{ 
     width: 400px;
@@ -13,6 +18,48 @@ box-sizing: border-box;
     margin: auto;
     margin-top: 100px;
     border-radius: 4px;
-    font-family:'Impact', Impact, 'Arial Narrow Bold', sans-serif;
-    color:white;
+    font-family:'calibri';
+    color:black;
+    box-shadow: 10px 13px 37px black ;
 }
+
+.form-register h4 {
+font-size: 30px;
+margin-bottom: 20px;
+text-align: center;
+}
+
+.controls {
+width: 100%;
+padding: 10px;
+border-radius: 5%;
+margin-bottom: 10px;
+font-family:'Impact', Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+.form-register p{
+text-align: center;
+font-size: 18px;
+height: 30px;
+}
+
+.form-register a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+.form-register a{
+    text-decoration: none;
+}
+.form-register .botons{
+width: 100%;
+background: #378de4;
+border: none;
+padding: 14px;
+color: white;
+font-size: 16px;
+text-align: center;
+margin-top: 10px;
+margin-bottom: 15px;
+}
+
