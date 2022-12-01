@@ -48,7 +48,8 @@ div.BloqueCentral{
 
 div.bloques-pseudoclase{
 	background-color:rgb(46, 108, 193);
-	display:flex;
+	display:block;
+    width: 120px;
 }
 
 div.bloques-pseudoclase>div{
@@ -58,6 +59,7 @@ div.bloques-pseudoclase>div{
 	margin:5px 3px 5px 3px;
 	border-radius:5px;
 	padding:10px;
+    
 	
 }
 
@@ -88,4 +90,12 @@ div.Lista-desplegable>ul {
 
 div.Lista-desplegable:hover>ul{
 	display:block;
+}
+
+.Boton {
+display: block;
+font-size: medium;
+font-family: 'Calibri';
+background-color: black;
+color:greenyellow;
 }
