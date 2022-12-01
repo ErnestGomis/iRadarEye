@@ -47,13 +47,16 @@ div.BloqueCentral{
 }
 
 div.bloques-pseudoclase{
-	background-color:rgb(46, 108, 193);
+	background-color:black;
 	display:block;
     width: 120px;
+    font-weight: bold;
+    color:greenyellow;
+    
 }
 
 div.bloques-pseudoclase>div{
-	background-color:rgb(119, 185, 255);
+	background-color:black;
 	display:20%;
 	font-size:20px;
 	margin:5px 3px 5px 3px;
@@ -86,10 +89,12 @@ div.Lista-desplegable>ul {
 	border-radius:5px;
 	z-index:3;
 	list-style:none;
+    
 }
 
 div.Lista-desplegable:hover>ul{
 	display:block;
+    font-weight: bold;
 }
 
 .Boton {
@@ -98,4 +103,5 @@ div.Lista-desplegable:hover>ul{
     font-family: 'Calibri';
     background-color: black;
     color:greenyellow;
+    font-weight: bold;
 }
