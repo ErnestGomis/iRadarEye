@@ -54,6 +54,10 @@ button {
     margin-left: 10px;
 }
 
+button:hover {
+    background-color: rgb(48, 102, 155);
+}
+
 a.forgotten {
     text-align: center;
     margin-bottom: 40px;
