@@ -34,7 +34,7 @@ body {
     padding: 10px;
     border-radius: 5%;
     margin-bottom: 10px;
-    font-family:'Impact', Impact, 'Arial Narrow Bold', sans-serif;
+    font-family:'Calibri';
 }
 
 .form-register p{
@@ -52,15 +52,18 @@ body {
     text-decoration: none;
 }
 .form-register .botons{
-    width: 100%;
-    background: #378de4;
-    border: none;
-    padding: 14px;
+    background-color: rgb(77, 166, 255);
+    border-color: whitesmoke;
     color: white;
-    font-size: 16px;
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 15px;
+    font-size: 25px;
+    font-size: 18;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 20px;
+    margin-left: 60px;
 }
 
 .form-register .botons:hover{ 
