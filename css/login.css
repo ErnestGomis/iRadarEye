@@ -9,6 +9,16 @@ div.flexin {
     display: flex;
 }
 
+div.iRadarEye {
+    display: flex;
+}
+
+img.Logo {
+    width: 100px;
+    height: 100px;
+    
+}
+
 div.recuadroLogin {
     background-color: rgb(119, 185, 255);
     display: block;
