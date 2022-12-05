@@ -73,6 +73,7 @@ div.bloques-pseudoclase>div:hover{
 
 div.bloques-pseudoclase>div>p.stealth {
 	display:none;
+    
 }
 
 div.bloques-pseudoclase>div:hover>p.stealth {
@@ -105,3 +106,4 @@ div.Lista-desplegable:hover>ul{
     color:greenyellow;
     font-weight: bold;
 }
+
