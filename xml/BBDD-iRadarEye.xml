@@ -4,190 +4,386 @@
         <Empresa>Mayto Kingdom</Empresa>
         <Sala>Tú También Soñaras</Sala>
         <Ubicacion>Vitoria, Pais Vasco</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Terror</Genero>
         <Nota>10</Nota>
         <Link>https://maytokingdom.es/tu-tambien-sonaras/</Link>
+        <Precio></Precio>
     </EscapeRoom>
     
     <EscapeRoom>
         <Empresa>Mayto Kingdom</Empresa>
         <Sala>La Cámara del Espiritu y el Tiempo</Sala>
         <Ubicacion>Vitoria, Pais Vasco</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Aventura-Anime</Genero>
         <Nota>10</Nota>
         <Link>https://maytokingdom.es/la-camara-del-espiritu-y-el-tiempo/</Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <EscapeRoom>
         <Empresa>Escape Barcelona</Empresa>
         <Sala>CyberCity 2049</Sala>
         <Ubicacion>Santa Coloma de Gramanet</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Ciencia Ficción</Genero>
         <Nota>10</Nota>
         <Link>https://www.escapebarcelona.com/cybercity-2049.php</Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <EscapeRoom>
         <Empresa>Insomnia</Empresa>
         <Sala>La Casa</Sala>
         <Ubicacion>Berga, Barcelona</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Terror</Genero>
         <Nota>10</Nota>
         <Link>https://www.gibaescape.com/opiniones-escape-rooms/insomnia-la-casa</Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <EscapeRoom>
         <Empresa>Krematorium</Empresa>
         <Sala>Malum</Sala>
         <Ubicacion>Hospitalet de Llobregat, Barcelona</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Terror</Genero>
         <Nota>10</Nota>
         <Link>https://www.gibaescape.com/opiniones-escape-rooms/opinion-krematorium-malum</Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <EscapeRoom>
         <Empresa>Silent Town</Empresa>
         <Sala>Colegio Midwich</Sala>
         <Ubicacion>Basauri, País Vasco</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Terror</Genero>
         <Nota>10</Nota>
         <Link>https://www.gibaescape.com/opiniones-escape-rooms/opinion-silent-town-colegio-midwich</Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <EscapeRoom>
         <Empresa>Arcanum</Empresa>
         <Sala>La Posesión</Sala>
         <Ubicacion>Sant Sadurní, Barcelona</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Terror</Genero>
         <Nota>10</Nota>
         <Link>https://www.arcanum.es/</Link>
+        <Precio></Precio>
     </EscapeRoom>
 
 <EscapeRoom>
         <Empresa>Mythos</Empresa>
         <Sala>Expedición Maldita</Sala>
         <Ubicacion>Murcia</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Aventura</Genero>
         <Nota>9.5</Nota>
         <Link>https://mythosmurcia.es/</Link>
+        <Precio></Precio>
     </EscapeRoom>
 
 <EscapeRoom>
         <Empresa>Golden Pop</Empresa>
         <Sala>Pesadillas</Sala>
         <Ubicacion>Barcelona</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Terror</Genero>
         <Nota>9.6</Nota>
         <Link>https://goldenpop.es/juegos/pesadillas/</Link>
+        <Precio></Precio>
     </EscapeRoom>
 
 <EscapeRoom>
         <Empresa>Outline Escape Room</Empresa>
         <Sala>Outline</Sala>
         <Ubicacion>Cornellá de Llobregat, Barcelona</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Terror</Genero>
         <Nota>10</Nota>
         <Link>https://outlineescaperoom.es/</Link>
+        <Precio></Precio>
     </EscapeRoom>
 
 <EscapeRoom>
         <Empresa>WhiteChapel</Empresa>
         <Sala>WhiteChapel</Sala>
         <Ubicacion>Barcelona</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Terror</Genero>
         <Nota>9.9</Nota>
         <Link>https://www.roomwhitechapel.com/</Link>
+        <Precio></Precio>
     </EscapeRoom>
 
 <EscapeRoom>
         <Empresa>Escape Barcelona</Empresa>
         <Sala>Tomb Hunter, La leyenda de Akasha</Sala>
         <Ubicacion>Santa Coloma de Gramanet, Barcelona</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Suspense</Genero>
         <Nota>9.4</Nota>
         <Link>https://www.escapebarcelona.com/tomb-hunter-la-leyenda-de-akasha.php</Link>
+        <Precio></Precio>
     </EscapeRoom>
 
 <EscapeRoom>
         <Empresa>Escape Barcelona</Empresa>
         <Sala>Alien- El origen</Sala>
         <Ubicacion>Santa Coloma de Gramanet, Barcelona</Ubicacion>
+        <Direccion></Direccion>
         <Genero>Ciencia Ficción</Genero>
         <Nota>9.6</Nota>
         <Link>https://www.escapebarcelona.com/alien-el-origen.php</Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <EscapeRoom>
         <Empresa>Overtime</Empresa>
         <Sala>Call or Die</Sala>
         <Ubicacion>Pamplona, Navarra</Ubicacion>
+        <Direccion></Direccion>
         <Genero></Genero>
         <Nota></Nota>
         <Link></Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
         <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
         <Genero></Genero>
         <Nota></Nota>
         <Link></Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
         <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
         <Genero></Genero>
         <Nota></Nota>
         <Link></Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
         <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
         <Genero></Genero>
         <Nota></Nota>
         <Link></Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
         <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
         <Genero></Genero>
         <Nota></Nota>
         <Link></Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
         <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
         <Genero></Genero>
         <Nota></Nota>
         <Link></Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
         <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
         <Genero></Genero>
         <Nota></Nota>
         <Link></Link>
+        <Precio></Precio>
     </EscapeRoom>
     
     <!-- AmarilloMelon (Ernesto)-->
     <EscapeRoom>
+        <Empresa>Distrito 7</Empresa>
+        <Sala>Noche de Perros</Sala>
+        <Ubicacion>Navarra, Pamplona</Ubicacion>
+        <Direccion>C. Bernardino Tirapu, 31, bajo, 31014 Pamplona, Navarra</Direccion>
+        <Genero>Aventura</Genero>
+        <Nota>10</Nota>
+        <Link>https://distrito7.es/noche-de-perros/</Link>
+        <Precio>65€ - 100€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Dragonborn</Empresa>
+        <Sala>El hijo del posadero</Sala>
+        <Ubicacion>País Vasco, Vitoria</Ubicacion>
+        <Direccion>Calle, Pintor Jesus Apellaniz Kalea, 5, bajo, 01008 Vitoria-Gasteiz, Álava</Direccion>
+        <Genero>Aventura</Genero>
+        <Nota>10</Nota>
+        <Link>https://dragonbornvitoria.es/</Link>
+        <Precio>80€ - 150€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>La Abadía perdida</Empresa>
+        <Sala>La Abadía perdida</Sala>
+        <Ubicacion>La Rioja</Ubicacion>
+        <Direccion>C. Duquesa de la Victoria, 55, bajo, 26004 Logroño, La Rioja</Direccion>
+        <Genero>Aventura</Genero>
+        <Nota>10</Nota>
+        <Link>https://laabadiaperdidaescaperoom.com/</Link>
+        <Precio>60€ - 100€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Overtime</Empresa>
+        <Sala>Misión 1: 101 años de perdon</Sala>
+        <Ubicacion>Navarra, Pamplona</Ubicacion>
+        <Direccion>C. Arbizu, 17, 31014 Pamplona, Navarra</Direccion>
+        <Genero>Acción</Genero>
+        <Nota>10</Nota>
+        <Link>https://overtimepamplona.es/</Link>
+        <Precio>70€ - 110€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Katharsis</Empresa>
+        <Sala>La hora de las bestias</Sala>
+        <Ubicacion>Barcelona, Mataró</Ubicacion>
+        <Direccion>Av. d'Amèrica, 14, 08304 Mataró, Barcelona</Direccion>
+        <Genero>Misterio</Genero>
+        <Nota>10</Nota>
+        <Link>https://katharsisroomescape.es/</Link>
+        <Precio>78€ - 154€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
         <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
         <Genero></Genero>
         <Nota></Nota>
         <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <!-- Turquesa (Lluna) -->
@@ -195,9 +391,11 @@
         <Empresa></Empresa>
         <Sala></Sala>
         <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
         <Genero></Genero>
         <Nota></Nota>
         <Link></Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <!-- Marron (Ernesto)-->
@@ -205,9 +403,11 @@
         <Empresa></Empresa>
         <Sala></Sala>
         <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
         <Genero></Genero>
         <Nota></Nota>
         <Link></Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <!-- Gris  (Lluna)-->
@@ -215,9 +415,11 @@
         <Empresa></Empresa>
         <Sala></Sala>
         <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
         <Genero></Genero>
         <Nota></Nota>
         <Link></Link>
+        <Precio></Precio>
     </EscapeRoom>
 
     <!-- Fucsia (Ernesto) -->
@@ -225,8 +427,10 @@
         <Empresa></Empresa>
         <Sala></Sala>
         <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
         <Genero></Genero>
         <Nota></Nota>
         <Link></Link>
+        <Precio></Precio>
     </EscapeRoom>
 </EscapeRoomSpain>
