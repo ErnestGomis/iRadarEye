@@ -6,6 +6,10 @@
         <Ubicacion>Vitoria, Pais Vasco</Ubicacion>
         <Direccion></Direccion>
         <Genero>Terror</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>10</Nota>
         <Link>https://maytokingdom.es/tu-tambien-sonaras/</Link>
         <Precio></Precio>
@@ -17,6 +21,10 @@
         <Ubicacion>Vitoria, Pais Vasco</Ubicacion>
         <Direccion></Direccion>
         <Genero>Aventura-Anime</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>10</Nota>
         <Link>https://maytokingdom.es/la-camara-del-espiritu-y-el-tiempo/</Link>
         <Precio></Precio>
@@ -28,6 +36,10 @@
         <Ubicacion>Santa Coloma de Gramanet</Ubicacion>
         <Direccion></Direccion>
         <Genero>Ciencia Ficción</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>10</Nota>
         <Link>https://www.escapebarcelona.com/cybercity-2049.php</Link>
         <Precio></Precio>
@@ -39,6 +51,10 @@
         <Ubicacion>Berga, Barcelona</Ubicacion>
         <Direccion></Direccion>
         <Genero>Terror</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>10</Nota>
         <Link>https://www.gibaescape.com/opiniones-escape-rooms/insomnia-la-casa</Link>
         <Precio></Precio>
@@ -50,6 +66,10 @@
         <Ubicacion>Hospitalet de Llobregat, Barcelona</Ubicacion>
         <Direccion></Direccion>
         <Genero>Terror</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>10</Nota>
         <Link>https://www.gibaescape.com/opiniones-escape-rooms/opinion-krematorium-malum</Link>
         <Precio></Precio>
@@ -61,6 +81,10 @@
         <Ubicacion>Basauri, País Vasco</Ubicacion>
         <Direccion></Direccion>
         <Genero>Terror</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>10</Nota>
         <Link>https://www.gibaescape.com/opiniones-escape-rooms/opinion-silent-town-colegio-midwich</Link>
         <Precio></Precio>
@@ -72,6 +96,10 @@
         <Ubicacion>Sant Sadurní, Barcelona</Ubicacion>
         <Direccion></Direccion>
         <Genero>Terror</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>10</Nota>
         <Link>https://www.arcanum.es/</Link>
         <Precio></Precio>
@@ -83,6 +111,10 @@
         <Ubicacion>Murcia</Ubicacion>
         <Direccion></Direccion>
         <Genero>Aventura</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>9.5</Nota>
         <Link>https://mythosmurcia.es/</Link>
         <Precio></Precio>
@@ -94,6 +126,10 @@
         <Ubicacion>Barcelona</Ubicacion>
         <Direccion></Direccion>
         <Genero>Terror</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>9.6</Nota>
         <Link>https://goldenpop.es/juegos/pesadillas/</Link>
         <Precio></Precio>
@@ -105,6 +141,10 @@
         <Ubicacion>Cornellá de Llobregat, Barcelona</Ubicacion>
         <Direccion></Direccion>
         <Genero>Terror</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>10</Nota>
         <Link>https://outlineescaperoom.es/</Link>
         <Precio></Precio>
@@ -116,6 +156,10 @@
         <Ubicacion>Barcelona</Ubicacion>
         <Direccion></Direccion>
         <Genero>Terror</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>9.9</Nota>
         <Link>https://www.roomwhitechapel.com/</Link>
         <Precio></Precio>
@@ -127,6 +171,10 @@
         <Ubicacion>Santa Coloma de Gramanet, Barcelona</Ubicacion>
         <Direccion></Direccion>
         <Genero>Suspense</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>9.4</Nota>
         <Link>https://www.escapebarcelona.com/tomb-hunter-la-leyenda-de-akasha.php</Link>
         <Precio></Precio>
@@ -138,6 +186,10 @@
         <Ubicacion>Santa Coloma de Gramanet, Barcelona</Ubicacion>
         <Direccion></Direccion>
         <Genero>Ciencia Ficción</Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota>9.6</Nota>
         <Link>https://www.escapebarcelona.com/alien-el-origen.php</Link>
         <Precio></Precio>
@@ -149,6 +201,10 @@
         <Ubicacion>Pamplona, Navarra</Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
@@ -160,6 +216,10 @@
         <Ubicacion></Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
@@ -171,6 +231,10 @@
         <Ubicacion></Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
@@ -182,6 +246,10 @@
         <Ubicacion></Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
@@ -193,6 +261,10 @@
         <Ubicacion></Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
@@ -204,6 +276,10 @@
         <Ubicacion></Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
@@ -215,6 +291,10 @@
         <Ubicacion></Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
@@ -227,9 +307,13 @@
         <Ubicacion>Navarra, Pamplona</Ubicacion>
         <Direccion>C. Bernardino Tirapu, 31, bajo, 31014 Pamplona, Navarra</Direccion>
         <Genero>Aventura</Genero>
+        <Jugadores>2 - 5 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
         <Nota>10</Nota>
         <Link>https://distrito7.es/noche-de-perros/</Link>
-        <Precio>65€ - 100€</Precio>
+        <Precio>65 - 100€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
@@ -238,9 +322,13 @@
         <Ubicacion>País Vasco, Vitoria</Ubicacion>
         <Direccion>Calle, Pintor Jesus Apellaniz Kalea, 5, bajo, 01008 Vitoria-Gasteiz, Álava</Direccion>
         <Genero>Aventura</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>10 años</EdadMin>
         <Nota>10</Nota>
         <Link>https://dragonbornvitoria.es/</Link>
-        <Precio>80€ - 150€</Precio>
+        <Precio>80 - 150€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
@@ -249,9 +337,13 @@
         <Ubicacion>La Rioja</Ubicacion>
         <Direccion>C. Duquesa de la Victoria, 55, bajo, 26004 Logroño, La Rioja</Direccion>
         <Genero>Aventura</Genero>
+        <Jugadores>2 - 5 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>10 años</EdadMin>
         <Nota>10</Nota>
         <Link>https://laabadiaperdidaescaperoom.com/</Link>
-        <Precio>60€ - 100€</Precio>
+        <Precio>60 - 100€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
@@ -260,9 +352,13 @@
         <Ubicacion>Navarra, Pamplona</Ubicacion>
         <Direccion>C. Arbizu, 17, 31014 Pamplona, Navarra</Direccion>
         <Genero>Acción</Genero>
+        <Jugadores>2 - 5 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
         <Nota>10</Nota>
         <Link>https://overtimepamplona.es/</Link>
-        <Precio>70€ - 110€</Precio>
+        <Precio>70 - 110€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
@@ -271,9 +367,28 @@
         <Ubicacion>Barcelona, Mataró</Ubicacion>
         <Direccion>Av. d'Amèrica, 14, 08304 Mataró, Barcelona</Direccion>
         <Genero>Misterio</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>80 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>12 años</EdadMin>
         <Nota>10</Nota>
         <Link>https://katharsisroomescape.es/</Link>
-        <Precio>78€ - 154€</Precio>
+        <Precio>78 - 154€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Vortex</Empresa>
+        <Sala>Apophis</Sala>
+        <Ubicacion>Barcelona, Terrassa</Ubicacion>
+        <Direccion>Carrer d'Alexander Bell, 72, 08224 Terrassa, Barcelona</Direccion>
+        <Genero>Ciencia Ficción</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media - Alta</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>10</Nota>
+        <Link>https://vortexescape.com/</Link>
+        <Precio>66 - 126€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
@@ -282,6 +397,115 @@
         <Ubicacion></Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota>10</Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota>10</Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota>10</Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota>10</Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota>10</Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota>10</Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota>10</Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
@@ -293,94 +517,10 @@
         <Ubicacion></Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
@@ -393,6 +533,10 @@
         <Ubicacion></Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
@@ -405,6 +549,10 @@
         <Ubicacion></Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
@@ -417,6 +565,10 @@
         <Ubicacion></Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
@@ -429,6 +581,10 @@
         <Ubicacion></Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
         <Nota></Nota>
         <Link></Link>
         <Precio></Precio>
