@@ -1,5 +1,5 @@
 <EscapeRoomSpain>
-    <!-- Naranja -->
+    <!-- Naranja  (Lluna) -->
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
@@ -9,7 +9,7 @@
         <Link></Link>
     </EscapeRoom>
     
-    <!-- AmarilloMelon -->
+    <!-- AmarilloMelon (Ernesto)-->
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
@@ -19,7 +19,7 @@
         <Link></Link>
     </EscapeRoom>
 
-    <!-- Turquesa -->
+    <!-- Turquesa (Lluna) -->
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
@@ -29,7 +29,7 @@
         <Link></Link>
     </EscapeRoom>
 
-    <!-- Marron -->
+    <!-- Marron (Ernesto)-->
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
@@ -39,7 +39,7 @@
         <Link></Link>
     </EscapeRoom>
 
-    <!-- Gris -->
+    <!-- Gris  (Lluna)-->
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
@@ -49,7 +49,7 @@
         <Link></Link>
     </EscapeRoom>
 
-    <!-- Fucsia -->
+    <!-- Fucsia (Ernesto) -->
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
