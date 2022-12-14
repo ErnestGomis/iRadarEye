@@ -1145,9 +1145,399 @@
     </EscapeRoom>
 
      <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
+        <Empresa>Resident Riddle</Empresa>
+        <Sala>Randall's Party</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carrer de Joan Riera, 32</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>3 - 5 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>8.3</Nota>
+        <Link>https://residentriddle.com/reservas/resident-riddle-randalls-party-escape-room</Link>
+        <Precio>100€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Run Rabbit</Empresa>
+        <Sala>La Mazmorra</Sala>
+        <Ubicacion>Valencia</Ubicacion>
+        <Direccion>Calle Jesus y Maria 10, Bajo</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>15 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://runrabbit.es/la-mazmorra/#reserva-mazmorra</Link>
+        <Precio>60 - 102€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>End House</Empresa>
+        <Sala>La Vieja Carnicería</Sala>
+        <Ubicacion>Esparraguera</Ubicacion>
+        <Direccion>Carrer Cavallers, 17</Direccion>
+        <Genero>Terror-Misterio</Genero>
+        <Jugadores>2 - 8 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>13 años</EdadMin>
+        <Nota>7.5</Nota>
+        <Link>https://www.endhouse.es/escape-room</Link>
+        <Precio>80 - 160€</Precio>
+    </EscapeRoom>
+    
+     <EscapeRoom>
+        <Empresa>Unreal</Empresa>
+        <Sala>El Bar</Sala>
+        <Ubicacion>Sants</Ubicacion>
+        <Direccion>Calle Bonaventura Polles 21, Local 2</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>5 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://unrealroomescape.es/sants/</Link>
+        <Precio>70 - 133€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Ingenious</Empresa>
+        <Sala>Extinction</Sala>
+        <Ubicacion>Elche</Ubicacion>
+        <Direccion>Calle Bernabe del Campo Latorre, 21</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>12 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.ingeniousescaperoom.com/extinction/</Link>
+        <Precio>80 - 130€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Arcade Invaders</Empresa>
+        <Sala>Arcade Invaders</Sala>
+        <Ubicacion>Gijón</Ubicacion>
+        <Direccion>Calle Progreso, 4</Direccion>
+        <Genero>Investigación</Genero>
+        <Jugadores>2 - 9 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>13 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>http://arcadeinvaders.es/#reserva</Link>
+        <Precio>64 - 153€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Insomnia</Empresa>
+        <Sala>El Cóctel del Doctor</Sala>
+        <Ubicacion>Berga</Ubicacion>
+        <Direccion>Gran Via, 1</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>8.6</Nota>
+        <Link>https://www.insomniacorp.com/el-coctel-del-doctor/reserva/</Link>
+        <Precio>60 - 120€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Harlequim</Empresa>
+        <Sala>Ca La Rulos</Sala>
+        <Ubicacion>Cassa de la Selva</Ubicacion>
+        <Direccion>Carretera Provincial, 15</Direccion>
+        <Genero>Investigación</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.harlequimescape.com/sala/</Link>
+        <Precio>65 - 110€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Cubick</Empresa>
+        <Sala>El Secuestro</Sala>
+        <Ubicacion>Mataró</Ubicacion>
+        <Direccion>Cooperativa, 77, Bajo 2º</Direccion>
+        <Genero>Acción</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>80 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>8.7</Nota>
+        <Link>https://cubickroomescape.es/mataro/reservas/</Link>
+        <Precio>78 - 140€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Delirium</Empresa>
+        <Sala>Exorcismo</Sala>
+        <Ubicacion>Montcada i Reixac</Ubicacion>
+        <Direccion>Av. Catalunya, 27</Direccion>
+        <Genero>Terror-Misterio</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>8.5</Nota>
+        <Link>https://deliriumxperience.com/reservas/</Link>
+        <Precio>90 - 150€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Yurmuvi</Empresa>
+        <Sala>El Regreso del Vampiro</Sala>
+        <Ubicacion>Gijón</Ubicacion>
+        <Direccion>Calle Juan Alvargonzalez 17-19</Direccion>
+        <Genero>Misterio</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>15 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.yurmuvi.com/el-regreso-del-vampiro</Link>
+        <Precio>70 - 80€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Bajo 2</Empresa>
+        <Sala>Bajo 2</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carretera de la Bordeta, 62</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>2 - 5 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>8.5</Nota>
+        <Link>http://www.bajosegunda.com/index.php#reserva</Link>
+        <Precio>80 - 125€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Av Vitoria</Empresa>
+        <Sala>Proyecto Avengadores</Sala>
+        <Ubicacion>Vitoria</Ubicacion>
+        <Direccion>Calle Peru, 8</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>120 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>10 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.avescaperoom.com/juegos/proyecto-avengadores/</Link>
+        <Precio>80 - 130€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Sanatorium</Empresa>
+        <Sala>El Origen</Sala>
+        <Ubicacion>Alicante</Ubicacion>
+        <Direccion>Cisne 37</Direccion>
+        <Genero>Terror-Misterio</Genero>
+        <Jugadores>4 - 10 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>9.0</Nota>
+        <Link>https://www.sanatoriumescapealicante.com/</Link>
+        <Precio>104 - 170€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Unreal</Empresa>
+        <Sala>La Mina</Sala>
+        <Ubicacion>Hospitalet de Llobregat</Ubicacion>
+        <Direccion>Bacardi, 32</Direccion>
+        <Genero>Acción-Aventura</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>5 años</EdadMin>
+        <Nota>9.0</Nota>
+        <Link>https://unrealroomescape.es/hospitalet/#reservas</Link>
+        <Precio>68 - 126€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Horror Box</Empresa>
+        <Sala>Jigsaw</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Industria, 268</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>2 - 8 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>8.7</Nota>
+        <Link>https://www.horrorbox.es/producto/jigsaw-escape-room/</Link>
+        <Precio>80 - 160€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Enkrypta</Empresa>
+        <Sala>El Despertar de la Srta. Blood</Sala>
+        <Ubicacion>Oviedo</Ubicacion>
+        <Direccion>Calle Campo de los Patos, 1</Direccion>
+        <Genero>Misterio</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>8.0</Nota>
+        <Link>https://www.enkrypta.com/</Link>
+        <Precio>66 - 132€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Fear Factory</Empresa>
+        <Sala>El Orfanato</Sala>
+        <Ubicacion>Hospitalet de Llobregat</Ubicacion>
+        <Direccion>Carretera de Collblanc, 205</Direccion>
+        <Genero>Terror-Misterio</Genero>
+        <Jugadores>2 - 8 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>8.1</Nota>
+        <Link>https://www.fearfactoryexp.com/copia-de-contacto</Link>
+        <Precio>70 - 160€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Fear</Empresa>
+        <Sala>Zombie Outbreak</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Av. de la Mare de Deu de Montserrat 199</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>1 - 8 jugadores</Jugadores>
+        <Tiempo>80 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>8.3</Nota>
+        <Link>https://fearescaperoom.com/</Link>
+        <Precio>45 - 160€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Trauma Factory</Empresa>
+        <Sala>Manoir</Sala>
+        <Ubicacion>Alcanó</Ubicacion>
+        <Direccion>Carrer Carretera, 33</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>8.3</Nota>
+        <Link>https://traumafactory.es/reservar-escape-room/manoir/</Link>
+        <Precio>60 - 102€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Unreal</Empresa>
+        <Sala>Endurance II</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Calle Porrera, 12</Direccion>
+        <Genero>Aventura-Ciencia Ficción</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>5 años</EdadMin>
+        <Nota>8.3</Nota>
+        <Link>https://unrealroomescape.es/horta/#reservas</Link>
+        <Precio>68 - 126€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Action Room Escape</Empresa>
+        <Sala>Mutant Xperience</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Passatge de Toledo, 6</Direccion>
+        <Genero>Acción-Aventura-Ciencia Ficción</Genero>
+        <Jugadores>2 - 6  jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>7.1</Nota>
+        <Link>https://www.actionroomescape.com/#reservas</Link>
+        <Precio>70 - 120€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>The X Door</Empresa>
+        <Sala>Cain</Sala>
+        <Ubicacion>Alicante</Ubicacion>
+        <Direccion>Duque de Zaragoza 2</Direccion>
+        <Genero>Ciencia Ficción</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>80 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>12 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.thexdooralicante.com/cain/</Link>
+        <Precio>60 - 102€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Xcape Room Finestrat</Empresa>
+        <Sala>El Sombrero de Alicia</Sala>
+        <Ubicacion>Finestrat</Ubicacion>
+        <Direccion>Calle Sella, 19, local 7</Direccion>
+        <Genero>Fantasía-Infantil</Genero>
+        <Jugadores>2 - 4 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>7 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.xcaperoomfinestrat.com/el-sombrerero-de-alicia</Link>
+        <Precio>52 - 90€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Cronos</Empresa>
+        <Sala>Resident Corporation</Sala>
+        <Ubicacion>Valencia</Ubicacion>
+        <Direccion>Calle Sevilla, 13</Direccion>
+        <Genero>Terror-Misterio</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>-</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://cronosvalencia.com/resident-corporation/</Link>
+        <Precio>60 - 102€</Precio>
+    </EscapeRoom>
+
+     <EscapeRoom>
+        <Empresa>Escapisme Xperience</Empresa>
+        <Sala>La Consulta</Sala>
+        <Ubicacion>Badalona</Ubicacion>
+        <Direccion>Carrer de Ripoll, 5</Direccion>
+        <Genero>Terror-Misterio</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>8.2</Nota>
+        <Link>https://www.escapadelaconsulta.com/</Link>
+        <Precio>80 - 120€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Wolfcrow</Empresa>
+        <Sala>Epiphany</Sala>
+        <Ubicacion>Sabadell</Ubicacion>
         <Direccion></Direccion>
         <Genero></Genero>
         <Jugadores></Jugadores>
@@ -1159,22 +1549,7 @@
         <Precio></Precio>
     </EscapeRoom>
 
-     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-     <EscapeRoom>
+    <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
         <Ubicacion></Ubicacion>
@@ -1189,6 +1564,185 @@
         <Precio></Precio>
     </EscapeRoom>
     
+       <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+       <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+       <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+       <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+       <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+       <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+       <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+       <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+       <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+       <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+       <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+       <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
 
     <!-- Marron (Ernesto)-->
     <EscapeRoom>
