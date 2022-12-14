@@ -467,393 +467,363 @@
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Abduction 3</Empresa>
+        <Sala>The exam</Sala>
+        <Ubicacion>Badalona</Ubicacion>
+        <Direccion>Avinguda de Bac de Roda, 28, Badalona</Direccion>
+        <Genero>Acción-Aventura</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>12 años</EdadMin>
+        <Nota>9.4</Nota>
+        <Link>https://www.abduction.es/badalona/abduction3</Link>
+        <Precio>85 - 115€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Hangar 18</Empresa>
+        <Sala>Misión nostromo</Sala>
+        <Ubicacion>Asturias</Ubicacion>
+        <Direccion>Poligono industrial de Roces, 3, Gijon</Direccion>
+        <Genero>Ciencia Ficción</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>8.8</Nota>
+        <Link>https://hangar18.es/reservas-nostromo</Link>
+        <Precio>70 - 140€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Abduction 2</Empresa>
+        <Sala>El orfanato</Sala>
+        <Ubicacion>Badalona</Ubicacion>
+        <Direccion>Avinguda de bac de Roda, 28, Badalona</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>8.3</Nota>
+        <Link>https://www.abduction.es/badalona/abduction2</Link>
+        <Precio>80 - 125€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
+        <Empresa>Secret box</Empresa>
+        <Sala>Caza fantasmas (the mysterious room)</Sala>
+        <Ubicacion>Mataro</Ubicacion>
+        <Direccion>Mossen Jacint Verdaguer, 69 , Mataro</Direccion>
+        <Genero>Misterio</Genero>
+        <Jugadores>3 - 5 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>10 años</EdadMin>
+        <Nota>8.1</Nota>
         <Link></Link>
-        <Precio></Precio>
+        <Precio>80 - 100€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Cubick 3</Empresa>
+        <Sala>Nathael</Sala>
+        <Ubicacion>Mataro</Ubicacion>
+        <Direccion>Cooperativa, 77, bajo 2, Mataro</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>8.4</Nota>
+        <Link>https://cubickroomescape.es/mataro/reservas/</Link>
+        <Precio>98 - 150€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Unreal</Empresa>
+        <Sala>Vikingos</Sala>
+        <Ubicacion>Gava</Ubicacion>
+        <Direccion>Carrer de Tresols, 33, Gava</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>5 años</EdadMin>
+        <Nota>8.2</Nota>
+        <Link>https://unrealroomescape.es/gava/#reservas</Link>
+        <Precio>68 - 140€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Red dopamine</Empresa>
+        <Sala>Awaken</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Alcala de Guadaira, 20, Barcelona</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>80 min</Tiempo>
+        <Dificultad>Alta</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>7.6</Nota>
+        <Link>https://www.thenextdoor.es/#reservar</Link>
+        <Precio>80 - 175€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
+        <Empresa>Misterios de Kemet</Empresa>
+        <Sala>Misterios de Kemet</Sala>
+        <Ubicacion>Esplugues</Ubicacion>
+        <Direccion>Serra del montsec, 22, Esplugues de Llobregat</Direccion>
+        <Genero>Aventura-Infantil</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>80 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>8 años</EdadMin>
+        <Nota>8.7</Nota>
         <Link></Link>
-        <Precio></Precio>
+        <Precio>72 - 126€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Factoría escape room</Empresa>
+        <Sala>Golpe perfecto en el jardín de buda</Sala>
+        <Ubicacion>Valencia</Ubicacion>
+        <Direccion>Av. Valladolid, 2, Valencia</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://factoriaescaperoom.com/reserva-golpe-perfecto-en-el-jardin-de-buda/</Link>
+        <Precio>60 - 110€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
+        <Empresa>Locked zgz</Empresa>
+        <Sala>Ritual</Sala>
+        <Ubicacion>Zaragoza</Ubicacion>
+        <Direccion>-</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>3 - 8 jugadores</Jugadores>
+        <Tiempo>80 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>-</Nota>
         <Link></Link>
-        <Precio></Precio>
+        <Precio>84 - 152€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Portento</Empresa>
+        <Sala>Olimpo</Sala>
+        <Ubicacion>Badalona</Ubicacion>
+        <Direccion>Carrer de la Muntanya, 31, Badalona</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 8 jugadores</Jugadores>
+        <Tiempo>100 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>8 años</EdadMin>
+        <Nota>8.6</Nota>
+        <Link>http://olimpoescaperoom.com/reservar/</Link>
+        <Precio>80 - 160</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Final code escape rooms</Empresa>
+        <Sala>Bermudas, el secreto jamás revelado</Sala>
+        <Ubicacion>Hospitalet del Llobregat</Ubicacion>
+        <Direccion>Carrer de Uva, 21, Hospitalet de Llobregat</Direccion>
+        <Genero>Investigación</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>10 años</EdadMin>
+        <Nota>8.4</Nota>
+        <Link>https://www.finalcodeescaperoom.com/services/bermudas-el-secreto-jamas-revelado/</Link>
+        <Precio>70 - 120€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Neverland</Empresa>
+        <Sala>Conquista de troya</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Passeig Santa Coloma, 106 Bajos, Barcelona</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>8 años</EdadMin>
+        <Nota>8.1</Nota>
+        <Link>https://neverlandescape.com/reserva/</Link>
+        <Precio>64 - 126€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Encrypt</Empresa>
+        <Sala>Mindhunters</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carrer del Moianes, 20, Barcelona</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>8.2</Nota>
+        <Link>https://www.encryptroom.com/reservas/</Link>
+        <Precio>75 - 114€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Brutal escape room cornellà</Empresa>
+        <Sala>Hotel Hello</Sala>
+        <Ubicacion>Cornellà</Ubicacion>
+        <Direccion>Pare Marchena, 3, Cornella de Llobregat</Direccion>
+        <Genero>Terror-Misterio</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>100 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>7 años</EdadMin>
+        <Nota>8.9</Nota>
+        <Link>https://brutalescaperoom.com/es/cornella/juegos/hotel-hello-barcelona</Link>
+        <Precio>75 - 114€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Castlemaniac</Empresa>
+        <Sala>La hermandad de las sombras</Sala>
+        <Ubicacion>Zaragoza</Ubicacion>
+        <Direccion>Avenida Rio Ebro, 49, Cuarte de Huerva</Direccion>
+        <Genero>Misterio</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>12 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.castlemaniac.es/</Link>
+        <Precio>90 - 150€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Inmortal room</Empresa>
+        <Sala>El diamante de almas</Sala>
+        <Ubicacion>Montcada i Reixac</Ubicacion>
+        <Direccion>Carrer Can Castells, 43, Montcada i Reixac</Direccion>
+        <Genero>Terror-Misterio</Genero>
+        <Jugadores>2 - 6</Jugadores>
+        <Tiempo>80 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>8.2</Nota>
+        <Link>https://www.inmortalroom.com/reservas/</Link>
+        <Precio>80 - 120€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Golden pop</Empresa>
+        <Sala>Catacumbas</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carrer de Girona, 7, Barcelona</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 10 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>12 años</EdadMin>
+        <Nota>8.3</Nota>
+        <Link>https://goldenpop.es/juegos/catacumbas/#reservar</Link>
+        <Precio>100 - 250€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>1801 Escape room</Empresa>
+        <Sala>Josep fontcalda casa museu</Sala>
+        <Ubicacion>Tona</Ubicacion>
+        <Direccion>Barcelona, 15, Tona</Direccion>
+        <Genero>Misterio</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>-</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.1801escaperoom.com/reserves/</Link>
+        <Precio>70 - 120€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Unreal</Empresa>
+        <Sala>The narcos</Sala>
+        <Ubicacion>Hospitalet del Llobregat</Ubicacion>
+        <Direccion>Bacardi, 32, Hospitalet de Llobregat</Direccion>
+        <Genero>Acción-Aventura</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>5 años</EdadMin>
+        <Nota>8.5</Nota>
+        <Link>https://unrealroomescape.es/hospitalet/</Link>
+        <Precio>68 - 126€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>123 Action barcelonaa</Empresa>
+        <Sala>SWAT Countdown</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Placa de Catalunya, Barcelona</Direccion>
+        <Genero>Acción</Genero>
+        <Jugadores>2 - 8 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>7.6</Nota>
+        <Link>https://123actionbarcelona.com/escapeexterior/</Link>
+        <Precio>40 - 160€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Sabotaje rooms</Empresa>
+        <Sala>La beerdad oculta</Sala>
+        <Ubicacion>Alicante</Ubicacion>
+        <Direccion>Calle Canal, 6, La Foia</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>4 - 6 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://sabotajerooms.com/beerdad-oculta/#reserva</Link>
+        <Precio>46 - 102€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Unreal</Empresa>
+        <Sala>Worm</Sala>
+        <Ubicacion>Esplugues</Ubicacion>
+        <Direccion>Av. Cornella, 17, Esplugues de Llobregat</Direccion>
+        <Genero>Aventura-Ciencia Ficción</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>5 años</EdadMin>
+        <Nota>8.6</Nota>
+        <Link>https://unrealroomescape.es/esplugues/#reservas</Link>
+        <Precio>68 - 126€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Unreal</Empresa>
+        <Sala>Las maravillas de agrabah</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Calle Petrarca, 34, Barcelona</Direccion>
+        <Genero>Fantasía</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>5 años</EdadMin>
+        <Nota>8.9</Nota>
+        <Link>https://unrealroomescape.es/vilapicina/</Link>
+        <Precio>76 - 140€</Precio>
     </EscapeRoom>
 
     <!-- Turquesa (Lluna) -->
@@ -1745,6 +1715,7 @@
     </EscapeRoom>
 
     <!-- Marron (Ernesto)-->
+
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
