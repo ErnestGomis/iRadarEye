@@ -1508,210 +1508,210 @@
         <Empresa>Wolfcrow</Empresa>
         <Sala>Epiphany</Sala>
         <Ubicacion>Sabadell</Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Direccion>Carrer de Zurbano, 7</Direccion>
+        <Genero>Terror-Misterio</Genero>
+        <Jugadores>2 - 4 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>7.9</Nota>
+        <Link>https://escaperoomsabadell.es/epiphany/</Link>
+        <Precio>60 - 94€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Last Minute Cornellá</Empresa>
+        <Sala>El Legado de Albus</Sala>
+        <Ubicacion>Cornellá de Llobregat</Ubicacion>
+        <Direccion>Carrer dels Catalans, 14</Direccion>
+        <Genero>Fantasía</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>80 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>8 años</EdadMin>
+        <Nota>7.2</Nota>
+        <Link>https://lastminutecornella.com/reservar/</Link>
+        <Precio>75 - 130€</Precio>
     </EscapeRoom>
     
        <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Yurmuvi</Empresa>
+        <Sala>Escuela de Magia</Sala>
+        <Ubicacion>Gijón</Ubicacion>
+        <Direccion>Calle Decano Prendes Pando, 23</Direccion>
+        <Genero>Fantasía</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>-</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.yurmuvi.com/escuela-de-magia-escape-room-gijon#tarifas-y-reservas</Link>
+        <Precio>70 - 80€</Precio>
     </EscapeRoom>
 
        <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Maxium Escape</Empresa>
+        <Sala>Refugio 27</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Girona, 27</Direccion>
+        <Genero>Aventura-Ciencia Ficción</Genero>
+        <Jugadores>3 - 5 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Alta</Dificultad>
+        <EdadMin>12 años</EdadMin>
+        <Nota>8.5</Nota>
+        <Link>https://maximumescape.com/es/games/Vault%2027#book</Link>
+        <Precio>90 - 130€</Precio>
     </EscapeRoom>
 
        <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Límite 60</Empresa>
+        <Sala>El Primer Viaje</Sala>
+        <Ubicacion>Gijón</Ubicacion>
+        <Direccion>Quevedo, 7</Direccion>
+        <Genero>Aventura-Misterio-Infantil</Genero>
+        <Jugadores>2 - 8 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>8 años</EdadMin>
+        <Nota>8.6</Nota>
+        <Link>http://www.limite60.com/reservas/index.php</Link>
+        <Precio>50 - 120€</Precio>
     </EscapeRoom>
 
        <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Escape or Die</Empresa>
+        <Sala>Tras la Ciudad Perdida</Sala>
+        <Ubicacion>Leioa</Ubicacion>
+        <Direccion>Langileria Kalea, 122</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Alta</Dificultad>
+        <EdadMin>-</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.traslaciudadperdida.com/index.php/booking/</Link>
+        <Precio>60 - 100€</Precio>
     </EscapeRoom>
 
        <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Cronologic</Empresa>
+        <Sala>La Creación</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Avinguda Meridiana, 129</Direccion>
+        <Genero>Ciencia Ficción</Genero>
+        <Jugadores>2 - 5 jugadores</Jugadores>
+        <Tiempo>65 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>8.7</Nota>
+        <Link>https://www.cronologic.es/reservar/</Link>
+        <Precio>65 - 95€</Precio>
     </EscapeRoom>
 
        <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Room Infinite</Empresa>
+        <Sala>Misión Europa</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carrer de Massens, 73</Direccion>
+        <Genero>Ciencia Ficción</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Alta</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>7.2</Nota>
+        <Link>https://roominfinite.com/producto/mision-europa/</Link>
+        <Precio>50 - 102€</Precio>
     </EscapeRoom>
 
        <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Cadena Perpetua</Empresa>
+        <Sala>La Evasión del Campo 14</Sala>
+        <Ubicacion>Montcada i Reixac</Ubicacion>
+        <Direccion>Calle Montiu 14</Direccion>
+        <Genero>Investigación</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>8 años</EdadMin>
+        <Nota>8.1</Nota>
+        <Link>https://cadenaperpetuaroom.com/#booking-section</Link>
+        <Precio>60 - 108€</Precio>
     </EscapeRoom>
 
        <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Escape Room Mission</Empresa>
+        <Sala>Gladiador</Sala>
+        <Ubicacion>Lugones</Ubicacion>
+        <Direccion>Calle Pasaje del Parque, 18</Direccion>
+        <Genero>Acción-Aventura</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>-</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>8.6</Nota>
+        <Link>https://escaperoommission.es/reservas.html</Link>
+        <Precio>50 - 105€</Precio>
     </EscapeRoom>
 
        <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>The Witching Hour</Empresa>
+        <Sala>La Juguetería Maldita</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Taquigraf Marti, 6, bajos</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>67 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>7.7</Nota>
+        <Link>https://thewitchinghour.es/reserva/</Link>
+        <Precio>84 - 126€</Precio>
     </EscapeRoom>
 
        <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Día D</Empresa>
+        <Sala>Día D</Sala>
+        <Ubicacion>Hospitalet de Llobregat</Ubicacion>
+        <Direccion>Bruc 41</Direccion>
+        <Genero>Aventura-Investigación</Genero>
+        <Jugadores>2 - 5 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>12 años</EdadMin>
+        <Nota>8.4</Nota>
+        <Link>https://diadroomescape.com/reservar</Link>
+        <Precio>60 - 100€</Precio>
     </EscapeRoom>
 
        <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Prision Experience</Empresa>
+        <Sala>Ducha Fría</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carrer Antic de Bofarull 15</Direccion>
+        <Genero>Acción</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>7.2</Nota>
+        <Link>https://www.prison-experience.com/#booking-section</Link>
+        <Precio>80 - 120€</Precio>
     </EscapeRoom>
 
        <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Hora de Escape</Empresa>
+        <Sala>La Guarida Pirata</Sala>
+        <Ubicacion>Oviedo</Ubicacion>
+        <Direccion>Julian Claveria, 4</Direccion>
+        <Genero>Aventura-Misterio</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>7.8</Nota>
+        <Link>https://horadeescape.es/reservas/</Link>
+        <Precio>54 - 105€</Precio>
     </EscapeRoom>
 
     <!-- Marron (Ernesto)-->
