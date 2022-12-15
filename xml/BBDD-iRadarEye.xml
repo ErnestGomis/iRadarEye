@@ -1,5 +1,4 @@
 <EscapeRoomSpain>
-    <!-- Naranja  (Lluna) -->
     <EscapeRoom>
         <Empresa>Mayto Kingdom</Empresa>
         <Sala>Tú También Soñaras</Sala>
@@ -240,7 +239,6 @@
         <Precio>100 150€</Precio>
     </EscapeRoom>
 
-    <!-- AmarilloMelon (Ernesto)-->
     <EscapeRoom>
         <Empresa>Distrito 7</Empresa>
         <Sala>Noche de Perros</Sala>
@@ -826,7 +824,6 @@
         <Precio>76 - 140€</Precio>
     </EscapeRoom>
 
-    <!-- Turquesa (Lluna) -->
     <EscapeRoom>
         <Empresa>Kenos</Empresa>
         <Sala>Kenos</Sala>
@@ -1082,7 +1079,6 @@
         <Link>https://cubickroomescape.es/mataro/reservas/</Link>
         <Precio>78 - 140€</Precio>
     </EscapeRoom>
-
 
     <EscapeRoom>
         <Empresa>Escape World Games</Empresa>
@@ -1715,6 +1711,95 @@
     </EscapeRoom>
 
     <!-- Marron (Ernesto)-->
+    <EscapeRoom>
+        <Empresa>Maximum escape</Empresa>
+        <Sala>La mazmorra (noches de terror)</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Girona, 27, Barcelona</Direccion>
+        <Genero>Aventura-Misterio</Genero>
+        <Jugadores>2 - 4 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Baja</Dificultad>
+        <EdadMin>8 años</EdadMin>
+        <Nota>7.9</Nota>
+        <Link>https://maximumescape.com/es/games/Mazmorra#book</Link>
+        <Precio>60 - 90€</Precio>
+    </EscapeRoom>
+    
+    <EscapeRoom>
+        <Empresa>Las celdas</Empresa>
+        <Sala>La grieta</Sala>
+        <Ubicacion>Avilés</Ubicacion>
+        <Direccion>Gutierrez Herrero, 52, Aviles</Direccion>
+        <Genero>Acción</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>8.1</Nota>
+        <Link>https://lasceldas.com/cap-1-la-grieta/</Link>
+        <Precio>50 - 100€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Escape Manía</Empresa>
+        <Sala>La tienda de las muñecas de lilith</Sala>
+        <Ubicacion>Bilbao</Ubicacion>
+        <Direccion>Rafaela Ybarra 7, Bilbao</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>2 - 5 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>8</Nota>
+        <Link>https://www.escapemania.es/reservar-juego-3.html</Link>
+        <Precio>60 - 80€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Escapem</Empresa>
+        <Sala>Bajo zero</Sala>
+        <Ubicacion>Sabadell</Ubicacion>
+        <Direccion>Casp, 9, Sabadell</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>9 años</EdadMin>
+        <Nota>8.3</Nota>
+        <Link>https://www.elementsescaperoom.com/bajo-zero/</Link>
+        <Precio>70 - 96€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Quimera escape</Empresa>
+        <Sala>Seven the game</Sala>
+        <Ubicacion>Granollers</Ubicacion>
+        <Direccion>Carrer Arago, 40, Les Franqueses del Valles</Direccion>
+        <Genero>Misterio</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Alta</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>8.3</Nota>
+        <Link>https://quimeraescape.com/reservas-2/</Link>
+        <Precio>65 - 120€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Fugitivos</Empresa>
+        <Sala>Fugitivos</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Passatge Posoltega, 11, Barcelona</Direccion>
+        <Genero>Aventura-Ciencia Ficción</Genero>
+        <Jugadores>2 - 8 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>7.9</Nota>
+        <Link>https://www.fugitivosroomescape.com/#section-services</Link>
+        <Precio>64 - 160€</Precio>
+    </EscapeRoom>
 
     <EscapeRoom>
         <Empresa></Empresa>
@@ -1731,7 +1816,681 @@
         <Precio></Precio>
     </EscapeRoom>
 
-    <!-- Gris  (Lluna)-->
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+    
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa></Empresa>
+        <Sala></Sala>
+        <Ubicacion></Ubicacion>
+        <Direccion></Direccion>
+        <Genero></Genero>
+        <Jugadores></Jugadores>
+        <Tiempo></Tiempo>
+        <Dificultad></Dificultad>
+        <EdadMin></EdadMin>
+        <Nota></Nota>
+        <Link></Link>
+        <Precio></Precio>
+    </EscapeRoom>
+
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
