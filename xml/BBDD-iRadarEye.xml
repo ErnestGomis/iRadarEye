@@ -1802,48 +1802,303 @@
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Hoppit</Empresa>
+        <Sala>Tap room</Sala>
+        <Ubicacion>Manresa</Ubicacion>
+        <Direccion>Carrer del Doctor Zamenhof, 20, Baixos, Manresa</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.hoppitescape.com/reservar/</Link>
+        <Precio>60 - 120€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Totem</Empresa>
+        <Sala>Génesis</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Passeig de Valldaura, 111, Barcelona</Direccion>
+        <Genero>Ciencia Ficción</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>8 años</EdadMin>
+        <Nota>6.9</Nota>
+        <Link>https://totemescaperoom.com/es/reservas/</Link>
+        <Precio>50 - 91€</Precio>
     </EscapeRoom>
     
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Cinema escape</Empresa>
+        <Sala>Barum dum</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carrer Sant Alexandre, 19, Barcelona</Direccion>
+        <Genero>Aventura-Fantasia</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>-</EdadMin>
+        <Nota>7.5</Nota>
+        <Link>https://www.cinemaescape.es/reservar-roomescape</Link>
+        <Precio>59 - 60€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Enigmik</Empresa>
+        <Sala>Nw6 Bunker</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Rossello, 508, Barcelona</Direccion>
+        <Genero>Acción-Investigación</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>7.1</Nota>
+        <Link>https://www.enigmik.com/nw6-bunker-escape-room/</Link>
+        <Precio>60 - 96€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Zona room</Empresa>
+        <Sala>Moon</Sala>
+        <Ubicacion>Pallejà</Ubicacion>
+        <Direccion>Av. de la Generalitat, 155, Palleja</Direccion>
+        <Genero>Aventura-Ciencia Ficción</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>8.1</Nota>
+        <Link>https://zonaroomescape.com/rooms/moon/</Link>
+        <Precio>62 - 132€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>The x room</Empresa>
+        <Sala>White and black</Sala>
+        <Ubicacion>Hospitalet</Ubicacion>
+        <Direccion>Holanda, 68, Hospitalet de Llobregat</Direccion>
+        <Genero>Investigación</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>-</EdadMin>
+        <Nota>6</Nota>
+        <Link>https://thexdoorbarcelona.com/white-and-black/</Link>
+        <Precio>46 - 90€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Baker street</Empresa>
+        <Sala>El videoclub de los 80</Sala>
+        <Ubicacion>Gijón</Ubicacion>
+        <Direccion>Joaquin Solis, 25, Gijon</Direccion>
+        <Genero>Investigación</Genero>
+        <Jugadores> 2 - 7 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>13 años</EdadMin>
+        <Nota>8.1</Nota>
+        <Link>http://bakerstreetgijon.com/reservas/</Link>
+        <Precio>54 - 98€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>The resistance</Empresa>
+        <Sala>Lanzadera alien</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Taquigraf Marti, 29, Barcelona</Direccion>
+        <Genero>Aventura-Ciencia Ficción</Genero>
+        <Jugadores>2 - 9 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>7.9</Nota>
+        <Link>https://www.resistanceroom.com/reservas-lanzadera-alien-nave-espacial/</Link>
+        <Precio>80 - 180€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Desafio Gijón</Empresa>
+        <Sala>El experimento</Sala>
+        <Ubicacion>Gijón</Ubicacion>
+        <Direccion>Tirso de Molina, 10, Gijon</Direccion>
+        <Genero>Investigación-Misterio</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>12 años</EdadMin>
+        <Nota>7.6</Nota>
+        <Link>https://desafiogijon.com/reservas</Link>
+        <Precio>50 - 100€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Wolfcrow</Empresa>
+        <Sala>Valhalla</Sala>
+        <Ubicacion>Sabadell</Ubicacion>
+        <Direccion>Carrer de Zurbano, 7, Sabadell</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>6.9</Nota>
+        <Link>https://escaperoomsabadell.es/</Link>
+        <Precio>60 - 120€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Scaparium</Empresa>
+        <Sala>Un plan perfecto</Sala>
+        <Ubicacion>Vilanova</Ubicacion>
+        <Direccion>Carrer de la Providencia, 66, Vilanova i la Geltru</Direccion>
+        <Genero>Acción-Infantil-Investigación</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>9 años</EdadMin>
+        <Nota>7.3</Nota>
+        <Link>http://scaparium.com/reservas-plan-perfecto/</Link>
+        <Precio>65 - 85€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Top secret</Empresa>
+        <Sala>Attractions</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Gran Via de les Corts Catalanes, 926, Barcelona</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>6.9</Nota>
+        <Link>https://www.topsecretbarcelona.com/attractions</Link>
+        <Precio>60 - 105€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>The x door</Empresa>
+        <Sala>Haunted prision</Sala>
+        <Ubicacion>Hospitalet</Ubicacion>
+        <Direccion>Holanda, 68, Hospitalet de Llobregat</Direccion>
+        <Genero>Acción-Misterio</Genero>
+        <Jugadores>2 - 10 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>-</EdadMin>
+        <Nota>6.9</Nota>
+        <Link>https://thexdoorbarcelona.com/haunted-prison/</Link>
+        <Precio>46 - 150€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Resident Riddle</Empresa>
+        <Sala>El invernadero</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carrer de Joan Riera, 32, Barcelona</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>4 - 8 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>7.8</Nota>
+        <Link>https://residentriddle.com/reservas/resident-riddle-invernadero-escape-room</Link>
+        <Precio>80 - 140€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Yurmuvi</Empresa>
+        <Sala>Asalto al nautilus</Sala>
+        <Ubicacion>Oviedo</Ubicacion>
+        <Direccion>Avenida de Santander, 14, Oviedo</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>http://www.yurmuvi.com/asalto-al-nautilus-escape-room-oviedo</Link>
+        <Precio>65 - 86€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Evasión rebelde</Empresa>
+        <Sala>The butcher</Sala>
+        <Ubicacion>Oviedo</Ubicacion>
+        <Direccion>Calle Juan Antonio Alvarez Rabanal, 2, Oviedo</Direccion>
+        <Genero>Misterio</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.evasionrebelde.com/butcher-reserva/</Link>
+        <Precio>65 - 120€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Maximum escape</Empresa>
+        <Sala>Hotel overlook</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carrer del Bruc 9, Barcelona</Direccion>
+        <Genero>Terror</Genero>
+        <Jugadores>3 - 5 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>7.1</Nota>
+        <Link>https://maximumescape.com/es/games/Overlook</Link>
+        <Precio>70 - 90€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Enigma</Empresa>
+        <Sala>El virus</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>C/ de les Acacies 38, Barcelona</Direccion>
+        <Genero>Acción-Aventura</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>7 años</EdadMin>
+        <Nota>7.3</Nota>
+        <Link>https://juegoenigma.es/es/reserva/</Link>
+        <Precio>62 - 114€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>Maximum</Empresa>
+        <Sala>Nave Ulysses</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carrer de Trafalgar, 17, Barcelona</Direccion>
+        <Genero>Ciencia Ficción</Genero>
+        <Jugadores>2 - 4 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>6.5</Nota>
+        <Link>https://maximumescape.com/es/games/Ulysses</Link>
+        <Precio>70 - 80€</Precio>
+    </EscapeRoom>
+
+    <EscapeRoom>
+        <Empresa>escape room roses</Empresa>
+        <Sala>La cena</Sala>
+        <Ubicacion>Roses</Ubicacion>
+        <Direccion>Carrer de Josep Romanach i Serrats, 32, Roses</Direccion>
+        <Genero>Misterio</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://escaperoomroses.com/reserva/</Link>
+        <Precio>60 - 140€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
@@ -2161,352 +2416,6 @@
         <Precio></Precio>
     </EscapeRoom>
 
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <!-- Fucsia (Ernesto) -->
     <EscapeRoom>
         <Empresa></Empresa>
         <Sala></Sala>
