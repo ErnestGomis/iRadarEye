@@ -2087,7 +2087,7 @@
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa>escape room roses</Empresa>
+        <Empresa>Escape room roses</Empresa>
         <Sala>La cena</Sala>
         <Ubicacion>Roses</Ubicacion>
         <Direccion>Carrer de Josep Romanach i Serrats, 32, Roses</Direccion>
@@ -2102,332 +2102,182 @@
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>AMAZEIN60</Empresa>
+        <Sala>Origen</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Calle de Garcia Noblejas, 3, Boadilla del Monte</Direccion>
+        <Genero>Aventura-Ciencia Ficción-Infantil</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>8 años</EdadMin>
+        <Nota>7.3</Nota>
+        <Link>https://amazein60.com/room/origen/</Link>
+        <Precio>60 - 108€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Tótem</Empresa>
+        <Sala>Las profecias del bosco</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Passeig Valldaura, 111, Barcelona</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>8 años</EdadMin>
+        <Nota>6.9</Nota>
+        <Link>https://totemescaperoom.com/es/reservas/</Link>
+        <Precio>50 - 91€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Maximum</Empresa>
+        <Sala>Gangsters</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Girona, 27, Barcelona</Direccion>
+        <Genero>Acción</Genero>
+        <Jugadores>2 - 4 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>8 años</EdadMin>
+        <Nota>8</Nota>
+        <Link>https://maximumescape.com/es/games/Gangsters#book</Link>
+        <Precio>60 - 90€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Evasión rebelde</Empresa>
+        <Sala>Atlantis</Sala>
+        <Ubicacion>Oviedo</Ubicacion>
+        <Direccion>Calle Juan Antonio Alvarez Rabanal, 2, Oviedo</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 7 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>9 años</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.evasionrebelde.com/atlantis-reserva/</Link>
+        <Precio>65 - 105€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Play escape room</Empresa>
+        <Sala>Alkatraz mediaval</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carrer de Llull, 256, Barcelona</Direccion>
+        <Genero>Acción-Aventura</Genero>
+        <Jugadores>2 - 8 jugadores</Jugadores>
+        <Tiempo>75 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>15 años</EdadMin>
+        <Nota>6.6</Nota>
+        <Link>https://playescaperoom.es/room/escape-room-medieval/</Link>
+        <Precio>60 - 144€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Monkkey bcn</Empresa>
+        <Sala>Monkkey Abbey</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carrer Pacific 66, Barcelona</Direccion>
+        <Genero>Misterio</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>7.5</Nota>
+        <Link>https://www.monkkeybcn.com/reservas</Link>
+        <Precio>60 - 96€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Mystery escape</Empresa>
+        <Sala>La cámara acorazada</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Diagonal 111-113, Barcelona</Direccion>
+        <Genero>Acción</Genero>
+        <Jugadores>3 - 7 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>16 años</EdadMin>
+        <Nota>6.8</Nota>
+        <Link>https://mysteryescape.es/reservas-la-camara-acorazada-mystery-escape/</Link>
+        <Precio>72 - 112€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Top secret</Empresa>
+        <Sala>Sinner</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Gran Via de les Corts Catalanes, 926, Barcelona</Direccion>
+        <Genero>Investigación</Genero>
+        <Jugadores>2 - 2 jugadores</Jugadores>
+        <Tiempo>45 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>6.8</Nota>
+        <Link>https://www.topsecretbarcelona.com/sinner</Link>
+        <Precio>35€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Hidden box</Empresa>
+        <Sala>La leyenda de turner</Sala>
+        <Ubicacion>Terrassa</Ubicacion>
+        <Direccion>Carretera de Rubi, 400, Terrassa</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>70 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>-</EdadMin>
+        <Nota>-</Nota>
+        <Link>https://www.hiddenbox.es/</Link>
+        <Precio>50 - 90€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Runaway</Empresa>
+        <Sala>Venganza</Sala>
+        <Ubicacion>Igualada</Ubicacion>
+        <Direccion>Carrer del Dr. Pujades, 64, Igualada</Direccion>
+        <Genero>Aventura</Genero>
+        <Jugadores>2 - 8 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>15 años</EdadMin>
+        <Nota>8.3</Nota>
+        <Link>http://www.runawayescaperoom.com/</Link>
+        <Precio>60 - 128€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Five cubes</Empresa>
+        <Sala>1961 la llamada</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Carrer de Santa Dorotea, 6, Bajos 2, Barcelona</Direccion>
+        <Genero>Misterio</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>90 min</Tiempo>
+        <Dificultad>Media</Dificultad>
+        <EdadMin>14 años</EdadMin>
+        <Nota>7</Nota>
+        <Link>https://www.fivecubes.es/five-cubes/1961-la-llamada/</Link>
+        <Precio>80 - 150€</Precio>
     </EscapeRoom>
 
     <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
-    </EscapeRoom>
-
-    <EscapeRoom>
-        <Empresa></Empresa>
-        <Sala></Sala>
-        <Ubicacion></Ubicacion>
-        <Direccion></Direccion>
-        <Genero></Genero>
-        <Jugadores></Jugadores>
-        <Tiempo></Tiempo>
-        <Dificultad></Dificultad>
-        <EdadMin></EdadMin>
-        <Nota></Nota>
-        <Link></Link>
-        <Precio></Precio>
+        <Empresa>Top secret</Empresa>
+        <Sala>La ley seca</Sala>
+        <Ubicacion>Barcelona</Ubicacion>
+        <Direccion>Gran Via de les Corts Catalanes, 926, Barcelona</Direccion>
+        <Genero>Acción</Genero>
+        <Jugadores>2 - 6 jugadores</Jugadores>
+        <Tiempo>60 min</Tiempo>
+        <Dificultad>Media-Alta</Dificultad>
+        <EdadMin>18 años</EdadMin>
+        <Nota>6.6</Nota>
+        <Link>https://www.topsecretbarcelona.com/ley-seca</Link>
+        <Precio>60 - 90€</Precio>
     </EscapeRoom>
 </EscapeRoomSpain>
