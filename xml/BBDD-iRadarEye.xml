@@ -92,7 +92,7 @@
     <EscapeRoom>
         <Empresa>Arcanum</Empresa>
         <Sala>La Posesión</Sala>
-        <Ubicacion>Sant Sadurní d'Anoia</Ubicacion>
+        <Ubicacion>Barcelona</Ubicacion>
         <Direccion>Passeig de Can Ferrer del Mas, 24</Direccion>
         <Genero>Terror</Genero>
         <Jugadores>2 - 6 jugadores</Jugadores>
@@ -167,7 +167,7 @@
 <EscapeRoom>
         <Empresa>Escape Barcelona</Empresa>
         <Sala>Tomb Hunter, La leyenda de Akasha</Sala>
-        <Ubicacion>Santa Coloma de Gramanet</Ubicacion>
+        <Ubicacion>Santa Coloma de Gramanet, Barcelona</Ubicacion>
         <Direccion>Baro, 17</Direccion>
         <Genero>Aventura</Genero>
         <Jugadores>2 - 6 jugadores</Jugadores>
