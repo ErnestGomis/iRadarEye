@@ -13,12 +13,12 @@
     </head>
 	 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container md6">
-                <a class="navbar-brand" href="#">iRadarEye</a>
+                <a class="navbar-brand .col-4" href="#">iRadarEye</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Link</a></li>
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="../html/login.html">Login</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Buscador🔍</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Menu</a>
                             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
@@ -36,12 +36,12 @@
             </div>
         </nav>
     <body >
-        <div>s</div>
-        <div class="col-md-2 ms-auto "><a href="html/MapaInteractivo.html"><button type="button" class="btn btn-primary btn-lg  mx-5" style="padding-left:100px; padding-right: 100px; box-shadow: 15px 13px 40px black; top:20px">Mapa</button></a>	</div>
+        <br></br>
+        <div class=".col-4 ms-auto "><a href="../html/MapaInteractivo.html"><button type="button" class="btn btn-primary btn-lg  mx-5" style="padding-left:100px; padding-right: 100px; box-shadow: 15px 13px 40px black; top:20px">Mapa</button></a>	</div>
        
         <div class="container cuerpo h-100 w-100">
             <div class="text-center mt-5 d-flex justify-content-center">
-                <div><button type="button" class="btn btn-primary btn-lg  mx-5">texto prueba</button>
+                <div><button type="button" class="btn btn-primary btn-lg  mx-5 .col-4 ms-auto">texto prueba</button>
 				</div>
 				<div><button type="button" class="btn btn-primary btn-lg  mx-5">texto prueba</button>
 				</div>
@@ -115,14 +115,22 @@
 			img{
 				position: absolute;
 				z-index:10;
+
 			}
 			body{
-				background-image:url(backgroundSpain.png);
 				background-repeat:no-repeat;
 				background-position:center;
 				background-size:cover;
 				position:relative;
+                background-image:url(../img/radar.PNG);
 			}
+            button{
+                display:block; 
+                box-shadow: 15px 15px 40px black;
+
+
+            }
+            
 		</style>
     </body>
 </html>
