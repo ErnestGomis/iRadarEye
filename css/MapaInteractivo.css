@@ -29,9 +29,9 @@ ul, ol {
 }
 .bg {
 	width: 160rem;
-	height: 100rem;
+	height: 90rem;
 	background-image: url(../img/bg.svg);
-	margin: 0rem auto;
+	margin: 100rem auto;
 	position: relative;
 	box-shadow: 0 0rem 0rem -.0rem rgba(88,67,128,0.6);
 	border-radius: 0rem;
@@ -240,7 +240,11 @@ ul, ol {
 	animation-delay: 18s;
 }
 
-
+@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+}
 
 
 
