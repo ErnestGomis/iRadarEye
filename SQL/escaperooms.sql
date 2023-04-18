@@ -1,3 +1,32 @@
+-- phpMyAdmin SQL Dump
+-- version 5.2.1
+-- https://www.phpmyadmin.net/
+--
+-- Servidor: 127.0.0.1
+-- Tiempo de generación: 18-04-2023 a las 19:33:12
+-- Versión del servidor: 10.4.28-MariaDB
+-- Versión de PHP: 8.2.4
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Base de datos: `bbdd-iradareye`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `escaperooms`
+--
+
 CREATE TABLE `escaperooms` (
   `id_escape` int(11) NOT NULL,
   `empresa` varchar(25) DEFAULT NULL,
@@ -13,6 +42,10 @@ CREATE TABLE `escaperooms` (
   `link` varchar(255) DEFAULT NULL,
   `precio` varchar(25) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish2_ci;
+
+--
+-- Volcado de datos para la tabla `escaperooms`
+--
 
 INSERT INTO `escaperooms` (`id_escape`, `empresa`, `sala`, `ubi`, `direc`, `genero`, `num_jugadores`, `tiempo`, `dificult`, `edadMin`, `nota`, `link`, `precio`) VALUES
 (1, 'Mayto Kingdom', 'Tú También Soñaras', 'Vitoria, Pais Vasco', 'Calle Barratxi 37A, Pabellon, 20, Vitoria-Gasteiz', 'Terror', '2 - 6 jugadores', 120, 'Media', '16 años', 10, 'https://maytokingdom.es/tu-tambien-sonaras/', '120 - 210€'),
@@ -40,8 +73,36 @@ INSERT INTO `escaperooms` (`id_escape`, `empresa`, `sala`, `ubi`, `direc`, `gene
 (23, 'Vortex', 'Apophis', 'Barcelona, Terrassa', 'Carrer Alexander Bell, 72, 08224 Terrassa, Barcelona', 'Ciencia Fi', '2 - 7 jugadores', 90, 'Media-Alta', '18 años', 10, 'https://vortexescape.com/', '66 - 126€'),
 (24, 'Profana', 'Profana', 'Barcelona, Granollers', 'Carrer Jules Verne, 12, 08402, Granollers', 'Terror Mis', '2 - 6 jugadores', 90, 'Media', '14 años', 8, 'https://profanaescaperoom.com/', '70 - 150€'),
 (25, 'Virus room escape', 'Tao', 'Barcelona, Calella', 'Carrer de Sant Jaume, 434, 08370, Calella', 'Investigac', '2 - 7 jugadores', 90, 'Media-Alta', '6 años', 9, 'https://virusroomescape.com/juegos/tao-japanese-massage-center/', '70 - 161€'),
-(26, 'Unreal', 'Distrito 111', 'Barcelona, Barcelona', 'Carrer de Bac de Roda, 186, 08020 Barcelona', 'Aventura', '2 - 7 jugadores', 90, 'Media', '12 años', 8, 'https://unrealroomescape.es/santmarti/', '60 - 160 €');
+(26, 'Unreal', 'Distrito 111', 'Barcelona, Barcelona', 'Carrer de Bac de Roda, 186, 08020 Barcelona', 'Aventura', '2 - 7 jugadores', 90, 'Media', '12 años', 8, 'https://unrealroomescape.es/santmarti/', '60 - 160 €'),
+(27, 'Synegro', 'Cazadores de brujas', 'Barcelona, Sant Boi', 'Carrer de Didac Priu, 40, 08830, Sant Boi de Llobregat', 'Aventura', '2 - 6 jugadores', 80, 'Media', '14 años', 8, 'http://www.synergoescaperoom.es/historia/index.html#calendario', '70 - 120€'),
+(28, 'Secret hunter', 'Km 18', 'Alicante, Alicante', 'Victor de la Serna 26, 03006 , Alicante', 'Misterio', '2 - 8 jugadores', 70, 'Media', '14 años', 9, 'https://secrethunter.es/km18/', '66 - 128€'),
+(29, 'Codexcape', 'Paranoia', 'Valencia, Valencia', 'Calle Lladro y Malli 8, bajo D4, 46007, Valencia', 'Terror', '2 - 6 jugadores', 75, 'Media', '16 años', 9, 'https://www.codexcape.net/reservar-online', '60 - 102€'),
+(30, 'Enigmik', 'La cerveseria', 'Barcelona, Barcelona', 'Rossello, 508, 08026, Barcelona', 'Aventura-I', '3 - 6 jugadores', 80, 'Media-Alta', '14 años', 9, 'https://www.enigmik.com/la-cerveceria-escape-room/', '90 - 120€'),
+(31, 'SKP Valencia', 'El loco del callejon', 'Valencia, Valencia', 'Guillem de Castro 123, 46008, Valencia', 'Misterio', '2 - 8 jugadores', 120, '-', '-', 0, 'https://skproom.com/', '50 - 168€'),
+(32, 'Conecta escape', 'Atrincherados', 'Barcelona, Cerdañola', 'Carrer de la Lluna, 46, 08290, Cerdanyola del Valles', 'Acción', '2 - 6 jugadores', 90, 'Media', '14 años', 8, 'https://www.elementsescaperoom.com/atrincherados/', '80 - 120€'),
+(33, 'Abduction 3', 'The exam', 'Badalona, Bercelona', 'Avinguda de Bac de Roda, 28, Badalona', 'Acción-Ave', '2 - 6 jugadores', 60, 'Media', '12 años', 9, 'https://www.abduction.es/badalona/abduction3', '85 - 115€'),
+(34, 'Hangar 18', 'Misión nostromo', 'Gijón, Asturias', 'Poligono industrial de Roces, 3, Gijon', 'Ciencia Fi', '2 - 7 jugadores', 70, 'Media', '16 años', 9, 'https://hangar18.es/reservas-nostromo', '70 - 140€'),
+(35, 'Abduction 2', 'El orfanato', 'Badalona, Barcelona', 'Avinguda de Bac de Roda, 28, Badalona', 'Terror', '2 - 7 jugadores', 60, 'Media', '18 años', 8, 'https://www.abduction.es/badalona/abduction2', '80 - 125€'),
+(36, 'Secret Box', 'Cazafantasmas (the myster', 'Mataró, Barcelona', 'Mossen Jacint Verdaguer, 69, Mataró', 'Misterio', '3 - 5 jugadores', 60, 'Media', '10 años', 8, '*', '80 - 100€'),
+(37, 'Cubick 3', 'Nathael', 'Mataró, Barcelona', 'Carrer de la Cooperativa, 77, Mataró', 'Terror', '2 - 6 jugadores', 90, 'Media-Alta', '16 años', 8, 'https://cubickroomescape.es/mataro/reservas/', '98 - 150€'),
+(38, 'Unreal', 'Vikingos', 'Gavà, Barcelona', 'Carrer de Tresols, 33, 08850 Gavà, Barcelona', 'Aventura', '2 - 7 jugadores', 90, 'Media', '5 años', 8, 'https://unrealroomescape.es/gava/#reservas', '68 - 140€'),
+(39, 'Red Dopamine', 'Awaken', 'Barcelona, Barcelona', 'Carrer Alcalá de Guadaira, 20, 08020 Barcelona', 'Terror', '2 - 7 jugadores', 80, 'Alta', '16 años', 8, 'https://www.thenextdoor.es/#reservar', '80 - 175€'),
+(40, 'Misterios de Kemet', 'Misterios de Kemet', 'Esplugues, Barcelona', 'Serra del montsec, 22, Esplugues de Llobregat', 'Aventura-I', '2 - 6 jugadores', 80, 'Media-Alta', '8 años', 9, '*', '72 - 126€'),
+(41, 'Factoría escape room', 'Golpe perfecto en el jard', 'Valencia, Valencia', 'Av. de Valladolid, 2, Bj, 46020 Valencia', 'Aventura', '2 - 7 jugadores', 90, 'Media', '16 años', 0, 'https://factoriaescaperoom.com/reserva-golpe-perfecto-en-el-jardin-de-buda/', '60 - 110€'),
+(42, 'Locked zgz', 'Ritual', 'Zaragoza, Aragón', 'C. de Alberto Duce, 15, 50018 Zaragoza', 'Terror', '3 - 8 jugadores', 80, 'Media', '18 años', 0, 'https://www.lockedzgz.com/', '84 - 152€'),
+(43, 'Portento', 'Olimpo', 'Badalona, Barcelona', 'Carrer de la Muntanya, 31, Badalona', 'Aventura', '2 - 8 jugadores', 100, 'Media', '8 años', 9, 'http://olimpoescaperoom.com/reservar/', '80 - 160€');
 
+--
+-- Índices para tablas volcadas
+--
+
+--
+-- Indices de la tabla `escaperooms`
+--
 ALTER TABLE `escaperooms`
   ADD PRIMARY KEY (`id_escape`);
 COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
