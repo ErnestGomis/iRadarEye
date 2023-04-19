@@ -1,25 +1,73 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="Project 22/23" content="RadarEye">
-        <link rel="stylesheet" href="../css/registro.css">
-        <title>iRadarEye</title>
-    </head>
-    <body>
-        <section class="form-register">
-            <h4>Registrate!</h4>
-            <input class="controls" type="text" name="nombres" id="nombres" placeholder="Ingrese su Nombre">           
-            <input class="controls"  type="text" name="usuario" id="usuario" placeholder="Ingrese su Usuario">           
-            <input class="controls"  type="password" name="contraseña" id="contraseña" placeholder="Ingrese su Contraseña">           
-            <input class="controls"  type="password" name="contraseña" id="contraseña" placeholder="Verificar Contraseña">           
-            <input class="controls"  type="email" name="correo" id="correo" placeholder="Ingrese su Correo">           
-            <p>Estoy de acuerdo con <a href="#"> Terminos y condiciones </a></p>
-            <input class="botons" type="submit" value="Registrar">
-            <p><a href="login.html">Login</a></p>
-        </section>
+<head>
+  <title>Registro</title>
+  <!-- Agrega los archivos CSS de Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  
+</head>
+<body>
 
-    </body>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-12">
+      <div class="card">
+        <div class="card-header">
+          <h4 class="text-center">Crear cuenta</h4>
+        </div>
+        <div class="card-body">
+          <form>
+            <div class="form-group">
+              <label for="usuario">Usuario:</label>
+              <input type="text" class="form-control" id="usuario" placeholder="Ingresa tu usuario">
+            </div>
+            <div class="form-group">
+              <label for="contrasena">Contraseña:</label>
+              <input type="password" class="form-control" id="contrasena" placeholder="Ingresa tu contraseña">
+            </div>
+            <div class="form-group">
+                <label for="contrasena">Repetir contraseña:</label>
+                <input type="password" class="form-control" id="contrasena" placeholder="Ingresa tu contraseña">
+              </div>
+            <button type="submit" class="btn btn-primary btn-block">Registrarse</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
-
-</html>
+<style>
+    body, html {
+       height: 100%;
+       background-image: url(../img/login.jpg);
+     }
+   
+     /* Estilos personalizados para centrar el formulario */
+     .container {
+       height: 100%;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       background-position: center;
+       
+       
+     }
+ 
+     .card {
+       box-shadow: 15px 15px 40px black;
+       padding: 60px;
+       opacity: 0.9;
+    
+     }
+   </style>
+ <!-- Agrega los archivos JavaScript de Bootstrap -->
+ <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+ 
+ <!-- Agrega los archivos CSS de Bootstrap -->
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+ </body>
+ </html>
+ 
