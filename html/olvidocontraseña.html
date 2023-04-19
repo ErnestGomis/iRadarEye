@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="Project 22/23" content="RadarEye">
-        <link rel="stylesheet" href="../css/olvidocontraseña.css">
+        <link rel="stylesheet" href="#">
         <title>iRadarEye</title>
     </head>
     <body>
@@ -11,10 +11,80 @@
             <h4>Recuperacion de cuenta</h4>    
             <input class="controls"  type="email" name="correo" id="correo" placeholder="Ingrese su Correo">           
             <input class="botons" type="submit" value="Recuperar">
-            <p><a href="login.html">¿Ya tengo cuenta?</a></p>
+            <p><a href="login.html" class="btn btn-link btn-block">¿Ya tengo cuenta?</a></p>
         </section>
 
     </body>
 
+    <style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+body {
+    background-image: url("../img/login.jpg");
+    height: 100%;
+}
+
+.form-register{ 
+    width: 400px;
+    background: white;
+    padding: 30px;
+    margin: auto;
+    margin-top: 110px;
+    font-family:'calibri';
+    box-shadow: 10px 13px 37px black ;
+    opacity: 0.9;
+    border-radius: 5px;
+   
+}
+
+.form-register h4 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.controls {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5%;
+    margin-bottom: 10px;
+    font-family:'Calibri';
+}
+
+.form-register p{
+    text-align: center;
+    font-size: 18px;
+    height: 30px;
+}
+
+.form-register a:hover{
+    color: blue;
+   
+}
+
+
+.form-register .botons{
+    background-color: rgb(38, 138, 238);
+    border-color: whitesmoke;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 20px;
+    margin-left: 65px;
+}
+
+.form-register .botons:hover{ 
+background:rgb(48, 102, 155);
+}
+
+    </style>
 
 </html>
