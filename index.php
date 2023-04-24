@@ -1,19 +1,17 @@
 <!DOCTYPE html>
-<html lang="en" class="h-100 w-100">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
-        <title>iRadarEye</title>
-        <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-hyK/SJvB9zOCTJyyZilOik1Bxj/HFBe11sV8Ls0bK7Rz+Qkyuac7A8MzlTq3KrVrTmkeD71pe7nkv+iD13sVjw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-        <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/styles.css" rel="stylesheet" />
-    </head>
-    <body>
-	    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<html>
+<head>
+    <title>¡iRadarEye</title>
+    <!-- Incluye los estilos de Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<?php require 'menu.php'; ?>
+<body>
+    <!-- Incluye los scripts de Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.7/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container md6">
                 <a class="navbar-brand .col-4" href="#">iRadarEye</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -247,4 +245,5 @@
 
 		</style>
     </body>
+</body>
 </html>
