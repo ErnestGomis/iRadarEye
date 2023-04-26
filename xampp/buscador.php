@@ -1,67 +1,104 @@
-<!DOCTYPE html>
-<html>
 <head>
-	<title>Resultados de búsqueda</title>
-	<style type="text/css">
-		table {
-			border-collapse: collapse;
-			width: 100%;
-		}
-
-		th, td {
-			text-align: left;
-			padding: 8px;
-			border: 1px solid #ddd;
-		}
-
-		tr:nth-child(even) {
-			background-color: #f2f2f2;
-		}
-	</style>
+    <title>¡iRadarEye</title>
+    <!-- Incluye los estilos de Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
-<body>
+<?php require 'menu.php'; ?>
+
+<style>
+body {
+  background-image: url(./img/radar.PNG);
+  background-size: cover;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-bottom: 1em;
+    margin: 0 auto;
+    background-position:center; 
+	background-color:white;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+
+th, td {
+    padding: 0.5em;
+}
+</style>
 
 <?php
-// Conectar a la base de datos
-$conexion = mysqli_connect("localhost", "root","","prueba");
+// Conexión a la base de datos
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "prueba";
 
-// Obtener los valores del formulario
-$genero = $_POST['genero'];
-$fecha = $_POST['fecha'];
-$ubi = $_POST['ubi'];
+$conn = mysqli_connect($servername, $username, $password, $dbname);
 
-print($genero);
-print($fecha);
-print($ubi);
-
-// Construir la consulta SQL
-$sql = "SELECT * FROM escaperooms WHERE genero LIKE '%$genero%' AND ubi LIKE '%$ubi%'";
-
-// Ejecutar la consulta SQL
-$resultado = mysqli_query($conexion, $sql);
-
-// Mostrar los resultados
-while ($fila = mysqli_fetch_assoc($resultado)) {
-    echo "Sala: " . $fila['sala'] . "<br>";
-    echo "Género: " . $fila['genero'] . "<br>";
-    //echo "Fecha: " . $fila['fecha'] . "<br>";
-    echo "Ubicación: " . $fila['ubi'] . "<br>";
+// Comprobar si la conexión es exitosa
+if (!$conn) {
+    die("Conexión fallida: " . mysqli_connect_error());
 }
-//Mostrar en una tabla
-echo "<table>";
-echo "<tr><th>Sala</th><th>Género</th><th>Ubicación</th></tr>";
-while ($fila = mysqli_fetch_assoc($resultado)) {
-    echo "<tr>";
-    echo "<td>" . $fila['sala'] . "</td>";
-    echo "<td>" . $fila['genero'] . "</td>";
-    echo "<td>" . $fila['ubi'] . "</td>";
-    echo "</tr>";
+
+// Consulta a la base de datos
+$sql = "SELECT sala, genero, ubi, id_escape, empresa, direc, num_jugadores, tiempo, dificult, edadMin, link, precio FROM escaperooms";
+$result = mysqli_query($conn, $sql);
+
+
+
+// Creación de la tabla
+echo "<table>
+        <tr>
+            <th>ID Escape</th>
+            <th>Empresa</th>
+            <th>Sala</th>
+            <th>Ubicación</th>
+            <th>Dirección</th>
+            <th>Género</th>
+            <th>Número de Jugadores</th>
+            <th>Tiempo</th>
+            <th>Dificultad</th>
+            <th>Edad mínima</th>
+            <th>Link</th>
+            <th>Precio</th>
+        </tr>";
+
+// Mostrar los datos de la consulta en la tabla
+if (mysqli_num_rows($result) > 0) {
+    while($row = mysqli_fetch_assoc($result)) {
+        echo "<tr>
+                <td>" . $row["id_escape"] . "</td>
+                <td>" . $row["empresa"] . "</td>
+                <td>" . $row["sala"] . "</td>
+                <td>" . $row["ubi"] . "</td>
+                <td>" . $row["direc"] . "</td>
+                <td>" . $row["genero"] . "</td>
+                <td>" . $row["num_jugadores"] . "</td>
+                <td>" . $row["tiempo"] . "</td>
+                <td>" . $row["dificult"] . "</td>
+                <td>" . $row["edadMin"] . "</td>
+				<td><a href='" . $row["link"] . "' target='_blank'>" . $row["link"] . "</a></td>
+                <td>" . $row["precio"] . "</td>
+            </tr>";
+    }
+} else {
+    echo "<tr><td colspan='12'>0 resultados</td></tr>";
 }
+
 echo "</table>";
 
-// Cerrar la conexión a la base de datos
-mysqli_close($conexion);
 
+
+
+// Cerrar la conexión
+mysqli_close($conn);
 ?>
-</body>
-</>
