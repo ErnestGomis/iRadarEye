@@ -1,12 +1,5 @@
-body.backgroundPerfil {
-    background-color: black;
-}
 
 div.fondo {
-    background-image: url("../img/imagenespaña.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
     margin-top: 150px;
     margin-left: auto;
     margin-right: auto;
