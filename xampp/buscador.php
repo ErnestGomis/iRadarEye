@@ -7,7 +7,7 @@
 
 <style>
 body {
-  background-image: url(./img/radar.PNG);
+  background-image: url(img/radar.PNG);
   background-size: cover;
 }
 
@@ -22,11 +22,12 @@ table {
 
 table, th, td {
     border: 1px solid black;
+    margin:gray;
 }
 
 th {
-    background-color: black;
-    color: white;
+    background-color: gray;
+    color: black;
     text-align: left;
 }
 
@@ -48,12 +49,14 @@ $conn = mysqli_connect($servername, $username, $password, $dbname);
 if (!$conn) {
     die("Conexión fallida: " . mysqli_connect_error());
 }
-
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    if (!empty($_POST["ubi"])) {
+        echo "<h1>".$_POST["ubi"]."</h1>";
+    }
+}
 // Consulta a la base de datos
-$sql = "SELECT sala, genero, ubi, id_escape, empresa, direc, num_jugadores, tiempo, dificult, edadMin, link, precio FROM escaperooms";
+$sql = "SELECT sala, genero, ubi, id_escape, empresa, direc, num_jugadores, tiempo, dificult, edadMin, link, precio FROM escaperooms WHERE ubi='".$_POST["ubi"]."'";
 $result = mysqli_query($conn, $sql);
-
-
 
 // Creación de la tabla
 echo "<table>
@@ -95,9 +98,6 @@ if (mysqli_num_rows($result) > 0) {
 }
 
 echo "</table>";
-
-
-
 
 // Cerrar la conexión
 mysqli_close($conn);
