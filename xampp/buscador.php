@@ -1,8 +1,11 @@
+<!DOCTYPE html>
+<html>
 <head>
     <title>¡iRadarEye</title>
     <!-- Incluye los estilos de Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
+<body>
 <?php require 'menu.php'; ?>
 
 <style>
@@ -55,36 +58,33 @@ if (!$conn) {
     die("Conexión fallida: " . mysqli_connect_error());
 }
 
-//Mostrar el resultado del buscador en la tabla
+// Definir variables 
+$sala = "sala"; // Variable de tipo cadena de texto, inicializada con una cadena vacía
+$genero = "genero"; // Variable de tipo cadena de texto, inicializada con una cadena vacía
+$ubi = "ubi"; // Variable de tipo cadena de texto, inicializada con una cadena vacía
+
+
+
+// Mostrar el resultado del buscador en la tabla
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (!empty($_POST["ubi"])) {
         echo "<h1>".$_POST["ubi"]."</h1>";
+        $ubi = $_POST["ubi"];
     }
-}
-
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (!empty($_POST["genero"])) {
         echo "<h1>".$_POST["genero"]."</h1>";
+        $genero = $_POST["genero"];
     }
-}
-
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (!empty($_POST["fecha"])) {
         echo "<h1>".$_POST["fecha"]."</h1>";
+        $sala = $_POST["fecha"];
     }
 }
 
 // Consulta a la base de datos
-$sql = "SELECT sala, genero, ubi, id_escape, empresa, direc, num_jugadores, tiempo, dificult, edadMin, link, precio FROM escaperooms WHERE ubi='".$_POST["ubi"]."'";
+$sql = "SELECT sala, genero, ubi, id_escape, empresa, direc, num_jugadores, tiempo, dificult, edadMin, link, precio FROM escaperooms WHERE ubi='$ubi' AND genero='$genero' AND sala='$sala'";
 $result = mysqli_query($conn, $sql);
 
-$sql = "SELECT sala, genero, ubi, id_escape, empresa, direc, num_jugadores, tiempo, dificult, edadMin, link, precio FROM escaperooms WHERE genero='".$_POST["genero"]."'";
-$result = mysqli_query($conn, $sql);
-
-$sql = "SELECT sala, genero, ubi, id_escape, empresa, direc, num_jugadores, tiempo, dificult, edadMin, link, precio FROM escaperooms WHERE ubi='".$_POST["fecha"]."'";
-$result = mysqli_query($conn, $sql);
-
-// Creación de la tabla
 echo "<table>
         <tr>
             <th>ID Escape</th>
@@ -100,31 +100,30 @@ echo "<table>
             <th>Link</th>
             <th>Precio</th>
         </tr>";
-
 // Mostrar los datos de la consulta en la tabla
 if (mysqli_num_rows($result) > 0) {
     while($row = mysqli_fetch_assoc($result)) {
         echo "<tr>
-                <td>" . $row["id_escape"] . "</td>
-                <td>" . $row["empresa"] . "</td>
-                <td>" . $row["sala"] . "</td>
-                <td>" . $row["ubi"] . "</td>
-                <td>" . $row["direc"] . "</td>
-                <td>" . $row["genero"] . "</td>
-                <td>" . $row["num_jugadores"] . "</td>
-                <td>" . $row["tiempo"] . "</td>
-                <td>" . $row["dificult"] . "</td>
-                <td>" . $row["edadMin"] . "</td>
-				<td><a href='" . $row["link"] . "' target='_blank'>" . $row["link"] . "</a></td>
-                <td>" . $row["precio"] . "</td>
+                <td>" . $row["id_escape"]. "</td>
+                <td>" . $row["empresa"]. "</td>
+                <td>" . $row["sala"]. "</td>
+                <td>" . $row["ubi"]. "</td>
+                <td>" . $row["direc"]. "</td>
+                <td>" . $row["genero"]. "</td>
+                <td>" . $row["num_jugadores"]. "</td>
+                <td>" . $row["tiempo"]. "</td>
+                <td>" . $row["dificult"]. "</td>
+                <td>" . $row["edadMin"]. "</td>
+				<td><a href='" . $row["link"]. "' target='_blank'>Reservar</a></td>
+                <td>" . $row["precio"]. "</td>
             </tr>";
     }
 } else {
-    echo "<tr><td colspan='12'>0 resultados</td></tr>";
+    echo "0 resultados";
 }
 
-echo "</table>";
-
-// Cerrar la conexión
 mysqli_close($conn);
 ?>
+</table>
+</body>
+</html>
