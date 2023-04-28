@@ -1,6 +1,6 @@
 <?php
 // Archivo register.php
-
+require 'config.php';
 // Iniciar sesión
 session_start();
 
@@ -42,9 +42,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   <!-- Agregar archivos CSS de Bootstrap -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
-<?php require 'menu.php'; ?>
-<body>
 
+<body>
+<a class="navbar-brand" href="../index.php">IradarEye</a>
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-6">
@@ -88,5 +88,19 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<style>
+    /* Definir estilo de fondo con imagen */
+    body {
+      background-image: url('../img/login.jpg'); /* Reemplaza 'ruta_de_tu_imagen.jpg' con la ruta de la imagen en tu servidor */
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    .container{
+      display: block; 
+      margin-top: 150px; 
+      opacity: 0.9;
+    }
+  </style>
 </body>
 </html>

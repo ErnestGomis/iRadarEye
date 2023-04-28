@@ -59,12 +59,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   <!-- Agregar archivos CSS de Bootstrap -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
-<?php require 'menu.php'; ?>
+
 
 <body>
-
+<a class="navbar-brand" href="../index.php">IradarEye</a>
 <div class="container">
-  <div class="row justify-content-center">
+  <div class="dflex row justify-content-center">
     <div class="col-md-6">
       <div class="card">
         <div class="card-header">
@@ -97,5 +97,23 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<style>
+    
+    body {
+      background-image: url('../img/login.jpg'); 
+      background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+      background-attachment: fixed;
+			}
+    
+
+    .container{
+      display: block; 
+      margin-top: 150px; 
+      opacity: 0.9;
+    }
+  </style>
+
 </body>
 </html>
