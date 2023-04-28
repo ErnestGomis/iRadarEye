@@ -18,6 +18,7 @@ table {
     margin: 0 auto;
     background-position:center; 
 	background-color:white;
+    position:left;
 }
 
 table, th, td {
@@ -34,6 +35,10 @@ th {
 th, td {
     padding: 0.5em;
 }
+
+h1{
+    color:white;
+}
 </style>
 
 <?php
@@ -49,13 +54,34 @@ $conn = mysqli_connect($servername, $username, $password, $dbname);
 if (!$conn) {
     die("Conexión fallida: " . mysqli_connect_error());
 }
+
+//Mostrar el resultado del buscador en la tabla
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (!empty($_POST["ubi"])) {
         echo "<h1>".$_POST["ubi"]."</h1>";
     }
 }
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    if (!empty($_POST["genero"])) {
+        echo "<h1>".$_POST["genero"]."</h1>";
+    }
+}
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    if (!empty($_POST["fecha"])) {
+        echo "<h1>".$_POST["fecha"]."</h1>";
+    }
+}
+
 // Consulta a la base de datos
 $sql = "SELECT sala, genero, ubi, id_escape, empresa, direc, num_jugadores, tiempo, dificult, edadMin, link, precio FROM escaperooms WHERE ubi='".$_POST["ubi"]."'";
+$result = mysqli_query($conn, $sql);
+
+$sql = "SELECT sala, genero, ubi, id_escape, empresa, direc, num_jugadores, tiempo, dificult, edadMin, link, precio FROM escaperooms WHERE genero='".$_POST["genero"]."'";
+$result = mysqli_query($conn, $sql);
+
+$sql = "SELECT sala, genero, ubi, id_escape, empresa, direc, num_jugadores, tiempo, dificult, edadMin, link, precio FROM escaperooms WHERE ubi='".$_POST["fecha"]."'";
 $result = mysqli_query($conn, $sql);
 
 // Creación de la tabla
