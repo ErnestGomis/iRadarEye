@@ -2,13 +2,14 @@
     <nav class="navbar navbar-dark bg-dark">
         <a class="navbar-brand" href="index.php">IradarEye</a>
         <?php
+          $usuario = $_POST['usuario'];
         // Reemplaza estas líneas con tu lógica de inicio de sesión y registro
         $logged_in = true; // true si el usuario ha iniciado sesión, false si no
-        $username = "John Doe"; // reemplaza con el nombre de usuario del usuario que ha iniciado sesión
+        $usuario = ""; // reemplaza con el nombre de usuario del usuario que ha iniciado sesión
         if ($logged_in) {
             echo '<ul class="navbar-nav ml-auto">';
             echo '<li class="nav-item">';
-            echo '<span class="nav-link">Bienvenido, ' . $username . '</span>';
+            echo '<span class="nav-link">Bienvenido, ' . $usuario . '</span>';
             echo '</li>';
             echo '<li class="nav-item">';
             echo '<a class="nav-link" href="./sesion/logout.php">Logout</a>';
